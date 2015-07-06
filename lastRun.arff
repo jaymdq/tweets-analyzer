@@ -1,0 +1,20 @@
+@relation lastRun
+
+@attribute herido {si_heridos, no_heridos}
+@attribute coches_involucrados {si_coches, no_coches}
+@attribute ubicacion {si_ubicacion, no_ubicacion}
+@attribute evento {accidente, demora, accidente_demora, otro}
+
+@data
+no_heridos, si_coches, si_ubicacion, demora
+no_heridos, no_coches, si_ubicacion, demora
+no_heridos, si_coches, si_ubicacion, demora
+no_heridos, no_coches, si_ubicacion, demora
+si_heridos, si_coches, si_ubicacion, accidente_demora
+si_heridos, si_coches, si_ubicacion, accidente_demora
+si_heridos, si_coches, si_ubicacion, accidente_demora
+no_heridos, si_coches, si_ubicacion, demora
+no_heridos, si_coches, si_ubicacion, demora
+si_heridos, si_coches, si_ubicacion, accidente_demora
+si_heridos, si_coches, si_ubicacion, accidente_demora
+si_heridos, si_coches, si_ubicacion, accidente_demora
