@@ -18,6 +18,8 @@ public class TweetRenderer extends DefaultTreeCellRenderer {
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
+	
+	private Font defaultFont =  new Font("Consolas", Font.PLAIN, 12);
 
 	public Component getTreeCellRendererComponent(JTree m_tree, Object m_value, boolean m_isSelected, boolean m_isExpanded, boolean m_isLeaf, int m_row,  boolean m_hasFocus) {
 		Component compObject = super.getTreeCellRendererComponent(m_tree, m_value, m_isSelected, m_isExpanded, m_isLeaf, m_row, m_hasFocus);
@@ -35,8 +37,11 @@ public class TweetRenderer extends DefaultTreeCellRenderer {
 			panel.add( compObject, BorderLayout.WEST );
 			JTextPane textPane = new JTextPane();
 			textPane.setContentType("text/html");
+			
 			textPane.setText(node.getText());
-			setJTextPaneFont(textPane, new Font("Consolas", Font.PLAIN, 12), Color.black);
+			//textPane.setFont(defaultFont);
+			//textPane.setFont(new Font("Consolas", Font.PLAIN, 12));
+			setJTextPaneFont(textPane, defaultFont);
 			panel.add( textPane, BorderLayout.EAST );
 			compObject = panel;
 		}
@@ -48,7 +53,7 @@ public class TweetRenderer extends DefaultTreeCellRenderer {
 		return compObject;
 	}
 
-	public static void setJTextPaneFont(JTextPane jtp, Font font, Color c) {
+	public void setJTextPaneFont(JTextPane jtp, Font font) {
 		// Start with the current input attributes for the JTextPane. This
 		// should ensure that we do not wipe out any existing attributes
 		// (such as alignment or other paragraph attributes) currently
@@ -63,10 +68,7 @@ public class TweetRenderer extends DefaultTreeCellRenderer {
 		StyleConstants.setFontSize(attrs, font.getSize());
 		StyleConstants.setItalic(attrs, (font.getStyle() & Font.ITALIC) != 0);
 		StyleConstants.setBold(attrs, (font.getStyle() & Font.BOLD) != 0);
-
-		// Set the font color
-		StyleConstants.setForeground(attrs, c);
-
+	
 		// Retrieve the pane's document object
 		StyledDocument doc = jtp.getStyledDocument();
 

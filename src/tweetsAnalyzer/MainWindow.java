@@ -446,8 +446,9 @@ public class MainWindow {
 		
 		for (String line : lines){
 
-			String option = line.split("=")[0].trim();
-			String rightMember = line.split("=")[1].trim();
+			int posEqual = line.indexOf("=");
+			String option = line.substring(0, posEqual).trim();
+			String rightMember = line.substring(posEqual+1, line.length()).trim();
 
 			switch (option){
 			case "FILE-ENTRIES":

@@ -39,11 +39,11 @@ EXACT-DICTIONARY= -a
 # -s => Search
 # -m => Means
 
-RULE-BASED-DICTIONARY-RULE= -s "[A-Za-z0-9](([_\\.\\-]?[a-zA-Z0-9]+)*)@([A-Za-z0-9]+)(([\\.\\-]?[a-zA-Z0-9]+)*)\\.([A-Za-z]{2,})" -m "Mail"
+RULE-BASED-DICTIONARY-RULE= -s "[A-Za-z0-9](([_\.\-]?[a-zA-Z0-9]+)*)@([A-Za-z0-9]+)(([\.\-]?[a-zA-Z0-9]+)*)\.([A-Za-z]{2,})" -m "Mail"
 RULE-BASED-DICTIONARY-RULE= -s "[0-9]+" -m "numero"
-RULE-BASED-DICTIONARY-RULE= -s "\\sy+" -m "y"
-RULE-BASED-DICTIONARY-RULE= -s "al" -m "al"
-RULE-BASED-DICTIONARY-RULE= -s "la" -m "la"
+RULE-BASED-DICTIONARY-RULE= -s "\sy+" -m "y"
+RULE-BASED-DICTIONARY-RULE= -s "\bal(?=\s)" -m "al"
+RULE-BASED-DICTIONARY-RULE= -s "\bl(a)+(?=\s)" -m "la"
 RULE-BASED-DICTIONARY-RULE= -s "esquina" -m "esquina"
 RULE-BASED-DICTIONARY-RULE= -s "entre" -m "entre"
 RULE-BASED-DICTIONARY-RULE= -s "casi" -m "casi"
