@@ -152,15 +152,11 @@ public class AnalyzerWorker extends Thread {
 
 			String tweet = tweets.elementAt(i);
 			Vector<Chunk> chunks = this.ner.recognize(tweet);
-			System.out.println("hola  " + chunks);
 			toAnalyze.add( new Pair< String, Vector<Chunk> >(tweet, chunks) );
 			String preProcessedTweet = this.ner.getLastPreProcessedString();
 
-			System.out.println("Pre sort; " + chunks);
 			chunks = sortChunks(chunks);
-			System.out.println("Pos sort; " + chunks);
 			chunks = removeSamePosChunks(chunks);
-			System.out.println("Pos remove; " + chunks);
 			Collections.reverse(chunks);
 
 			StringBuilder auxTweet = new StringBuilder(preProcessedTweet);
