@@ -117,10 +117,8 @@ Ritmo
 Sedici
 Seicento
 Stilo
-Tipo
 Tempra
 Ulysse
-Uno
 1500 Coupé Vignale
 Viaggio
 
@@ -496,14 +494,12 @@ Fusion
 Fusion Hybrid
 Meteor
 Tempo
-Transit
 Galaxie
 Galaxy
 Versailles
 Ikon
 Iosis
 Iosis X
-Ka
 Kuga
 Laser
 Maverick
@@ -1665,7 +1661,6 @@ Daelim
 Hyosung
 Jialing
 Quinqi
-AJR
 Alpha
 Anvian
 ArianeTech
@@ -1692,7 +1687,6 @@ Mototrans
 MYMSA
 OSSA
 Rieju
-ROA
 Rovena
 Sanglas
 Setter
@@ -1708,15 +1702,10 @@ Victory
 Rokon
 Scorpa
 Voxan
-AJS
-AMC
 Armstrong
-BSA
-CCM
 Caltorpe
 Cotton
 Douglas
-EMC
 Excelsior
 Greeves
 Francis-Barnet
@@ -1736,7 +1725,6 @@ Bajaj
 Pulsar
 Aprilia
 Aermacchi
-Aim
 Altea
 Ancillotti
 Aspes
@@ -1751,7 +1739,6 @@ CNA Rondine
 Di Blasi
 Ducati
 Fantic Motor
-FBM
 Frera
 Garelli
 Gazzaniga
@@ -1767,8 +1754,6 @@ Magni
 Malaguti
 Malanca
 Marabese
-MBA
-MM
 Meteora
 Milani
 Millepercento
@@ -1793,7 +1778,6 @@ TM Racing
 Vertemati
 Vi-Vi
 Vespa
-VOR
 Vyrus
 WRM Motorcycles
 Bridgestone
@@ -1814,19 +1798,16 @@ Britten Motorcycles
 Karpaty
 Kovrov
 Ural
-ZiD
 Motocicletas Husqvarna
 Husqvarna
 Monark
 Kymco
-Sym
 Dnipro
 Empire Keeway
 Bera Motorcycles
 MD-Haojin
 Skygo
 Haojue
-UM
 leopard
 kenton
 taiga
@@ -1894,9 +1875,12 @@ carril lento
 reducción de calzada
 frenada
 tránsito lento
+transito lento
 retraso
 retrasos
 retrasado
+marcha
+marchas
 
 #CATEGORY Modelo Peugeot
 

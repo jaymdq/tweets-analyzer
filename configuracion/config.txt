@@ -21,7 +21,7 @@ TO-LOWERCASE=true
 # -s => Search
 # -r => Replace
 
-PREPROCESS-RULE= -s "(\\D)([\\.,])(\\D)?" -r "$1 $2 $3"
+PREPROCESS-RULE= -s "(\D)?([\.,:;\?\!#/])(\D)?" -r "$1 $2 $3"
 PREPROCESS-RULE= -s " {2,}" -r " "
 
 # DICTIONARIES
@@ -40,14 +40,15 @@ EXACT-DICTIONARY= -a
 # -m => Means
 
 RULE-BASED-DICTIONARY-RULE= -s "[A-Za-z0-9](([_\.\-]?[a-zA-Z0-9]+)*)@([A-Za-z0-9]+)(([\.\-]?[a-zA-Z0-9]+)*)\.([A-Za-z]{2,})" -m "Mail"
-RULE-BASED-DICTIONARY-RULE= -s "[0-9]+" -m "numero"
-RULE-BASED-DICTIONARY-RULE= -s "\sy+" -m "y"
+RULE-BASED-DICTIONARY-RULE= -s "\b[0-9]+(?=\s)" -m "numero"
+RULE-BASED-DICTIONARY-RULE= -s "\b(y)+(?=\s)" -m "y"
 RULE-BASED-DICTIONARY-RULE= -s "\bal(?=\s)" -m "al"
 RULE-BASED-DICTIONARY-RULE= -s "\bl(a)+(?=\s)" -m "la"
-RULE-BASED-DICTIONARY-RULE= -s "esquina" -m "esquina"
-RULE-BASED-DICTIONARY-RULE= -s "entre" -m "entre"
-RULE-BASED-DICTIONARY-RULE= -s "casi" -m "casi"
-RULE-BASED-DICTIONARY-RULE= -s "de" -m "de"	
+RULE-BASED-DICTIONARY-RULE= -s "\besquina(?=\s)" -m "esquina"
+RULE-BASED-DICTIONARY-RULE= -s "\bentre(?=\s)" -m "entre"
+RULE-BASED-DICTIONARY-RULE= -s "\bcaso(?=\s)" -m "casi"
+RULE-BASED-DICTIONARY-RULE= -s "\bd(e)+(?=\s)" -m "de"
+RULE-BASED-DICTIONARY-RULE= -s "\baltura(?=\s)" -m "al"	
 
 # APPROXIMATED-DICTIONARY
 # Opcional
@@ -56,7 +57,7 @@ RULE-BASED-DICTIONARY-RULE= -s "de" -m "de"
 # -n => N_Grams = int
 # -t => Threshold = int
 
-APPROXIMATED-DICTIONARY= -l 0.6 -n 2 -t 1
+APPROXIMATED-DICTIONARY= -l 0.6 -n 2 -t 2
 
 # SYNTAX-CHECKER
 # Opcional

@@ -200,7 +200,7 @@ public class AnalyzerWorker extends Thread {
 
 		// Detect Events
 		detector.getFixedWindow().setFixedSize(tweets.size());
-		Vector<ChunkEvent> eventResults = detector.detectEvents(toAnalyze,true); 
+		Vector<ChunkEvent> eventResults = detector.detectEvents(toAnalyze,false); 
 		TweetDefaultMutableTreeNode eventsDetectedNode = new TweetDefaultMutableTreeNode("<span style=\"color:blue\"><b>Events</b></span>");
 		root.add(eventsDetectedNode);
 
