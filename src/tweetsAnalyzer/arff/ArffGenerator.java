@@ -64,8 +64,8 @@ public class ArffGenerator {
 		ubicacionCategories.add("Ruta");
 		ubicacionCategories.add("Autopista");
 		ubicacionCategories.add("Avenida");
-		ubicacionCategories.add("Intersección");
-		ubicacionCategories.add("Dirección");
+		ubicacionCategories.add("Interseccion");
+		ubicacionCategories.add("Direccion");
 		ParamFilterAbs ubicacionFilter = new TokenFilter(ubicacionCategories);
 		ubicacionFilter.setValues(ubicacionList);
 		ubicacionParameter.setFilter(ubicacionFilter);

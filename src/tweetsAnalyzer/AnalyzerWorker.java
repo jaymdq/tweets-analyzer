@@ -123,7 +123,9 @@ public class AnalyzerWorker extends Thread {
 			if (chunks.elementAt(i-1).start() != chunks.elementAt(i).start() && chunks.elementAt(i-1).end() != chunks.elementAt(i).end())
 				out.add(chunks.elementAt(i));
 
-		}	
+		}
+		else
+			return chunks;
 		return out;
 	}
 
@@ -150,12 +152,15 @@ public class AnalyzerWorker extends Thread {
 
 			String tweet = tweets.elementAt(i);
 			Vector<Chunk> chunks = this.ner.recognize(tweet);
+			System.out.println("hola  " + chunks);
 			toAnalyze.add( new Pair< String, Vector<Chunk> >(tweet, chunks) );
 			String preProcessedTweet = this.ner.getLastPreProcessedString();
 
+			System.out.println("Pre sort; " + chunks);
 			chunks = sortChunks(chunks);
+			System.out.println("Pos sort; " + chunks);
 			chunks = removeSamePosChunks(chunks);
-
+			System.out.println("Pos remove; " + chunks);
 			Collections.reverse(chunks);
 
 			StringBuilder auxTweet = new StringBuilder(preProcessedTweet);

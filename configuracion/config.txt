@@ -21,7 +21,7 @@ TO-LOWERCASE=true
 # -s => Search
 # -r => Replace
 
-PREPROCESS-RULE= -s "(\D)?([\.,:;\?\!#/])(\D)?" -r "$1 $2 $3"
+PREPROCESS-RULE= -s "([\.,:;\?\!#/])" -r " $1 "
 PREPROCESS-RULE= -s " {2,}" -r " "
 
 # DICTIONARIES
