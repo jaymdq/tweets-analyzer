@@ -1,4 +1,4 @@
-# Archivo de ConfiguraciÃ³n.
+# Archivo de Configuración.
 # Esto es un comentario.
 
 # NER
@@ -6,7 +6,7 @@
 # FILE-ENTRIES 
 # Archivo txt en donde se encuentre el diccionario entero. 
 # Si se especifican varios archivos se levantaran todos los diccionarios.
-# Esta opciÃ³n es obligatoria.
+# Esta opción es obligatoria.
 
 FILE-ENTRIES=./dics/Diccionario.txt
 
@@ -17,12 +17,17 @@ TO-LOWERCASE=true
 
 # PreProcess
 # Opcional
-# Si no se comenta entonces se harÃ¡ el preprocesamiento.
+# Si no se comenta entonces se hará el preprocesamiento.
 # -s => Search
 # -r => Replace
 
 PREPROCESS-RULE= -s "([\.,:;\?\!#/])" -r " $1 "
 PREPROCESS-RULE= -s " {2,}" -r " "
+PREPROCESS-RULE= -s "[àáäâã]" -r "a"
+PREPROCESS-RULE= -s "[éèëê]" -r "e"
+PREPROCESS-RULE= -s "[ìíîï]" -r "i"
+PREPROCESS-RULE= -s "[òóôöõ]" -r "o"
+PREPROCESS-RULE= -s "[úùüû]" -r "u"
 
 # DICTIONARIES
 
@@ -35,7 +40,7 @@ EXACT-DICTIONARY= -a
 
 # RULE-BASED-DICTIONARY
 # Opcional
-# Si no se comenta entonces se incluirÃ¡ este diccionario.
+# Si no se comenta entonces se incluirá este diccionario.
 # -s => Search
 # -m => Means
 
@@ -52,7 +57,7 @@ RULE-BASED-DICTIONARY-RULE= -s "\baltura(?=\s)" -m "al"
 
 # APPROXIMATED-DICTIONARY
 # Opcional
-# Si no se comenta entonces se incluirÃ¡ este diccionario.
+# Si no se comenta entonces se incluirá este diccionario.
 # -l => LowerLimit = double
 # -n => N_Grams = int
 # -t => Threshold = int

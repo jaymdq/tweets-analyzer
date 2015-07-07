@@ -642,7 +642,7 @@ public class MainWindow {
 			return;
 
 		String results = tweetClassifier.classify(path);
-		results += "\n Scheme: [" + classifierConfigurationLine + "]";
+		results += "\nScheme: [" + classifierConfigurationLine + "]";
 
 		TextDialog textDialog = new TextDialog("Classification [" + path + "]", results,true);
 		textDialog.setEditable(false);
@@ -666,7 +666,7 @@ public class MainWindow {
 			return;
 
 		String results = tweetClassifier.classifyTweets(tweets,path);
-		results += "\n Scheme: [" + classifierConfigurationLine + "]";
+		results += "\nScheme: [" + classifierConfigurationLine + "]";
 
 		TextDialog textDialog = new TextDialog("Classification [" + path + "]", results,true);
 		textDialog.setEditable(false);
