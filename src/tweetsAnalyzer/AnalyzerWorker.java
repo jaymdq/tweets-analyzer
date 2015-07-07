@@ -200,16 +200,19 @@ public class AnalyzerWorker extends Thread {
 		}
 
 		// Detect Events
-		detector.getFixedWindow().setFixedSize(tweets.size());
-		Vector<ChunkEvent> eventResults = detector.detectEvents(toAnalyze,false); 
-		TweetDefaultMutableTreeNode eventsDetectedNode = new TweetDefaultMutableTreeNode("<span style=\"color:blue\"><b>Events</b></span>");
-		root.add(eventsDetectedNode);
+		Vector<ChunkEvent> eventResults = new Vector<ChunkEvent>();
+		if (detector != null){
+			detector.getFixedWindow().setFixedSize(tweets.size());
+			eventResults = detector.detectEvents(toAnalyze,false); 
+			TweetDefaultMutableTreeNode eventsDetectedNode = new TweetDefaultMutableTreeNode("<span style=\"color:blue\"><b>Events</b></span>");
+			root.add(eventsDetectedNode);
 
-		for (ChunkEvent ce : eventResults){
-			eventsDetectedNode.add(new TweetDefaultMutableTreeNode(ce.toString()));
+			for (ChunkEvent ce : eventResults){
+				eventsDetectedNode.add(new TweetDefaultMutableTreeNode(ce.toString()));
+			}
+
 		}
-
-
+		
 		//This generate arff file
 		Vector< Vector<AbsChunk> > chunkList = new Vector< Vector<AbsChunk> >();
 		for(Pair< String, Vector<Chunk> > pair : toAnalyze){

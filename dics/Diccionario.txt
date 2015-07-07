@@ -4524,6 +4524,7 @@ De Pietri
 De Roxas
 Del Medio
 Dhers
+gral paz
 Doering
 Domínguez
 D. Pastoriza
@@ -4941,3 +4942,339 @@ víctimas
 víctima
 desgracia
 infortunio
+
+#CATEGORY Barrio
+
+Acassuso 
+Adrogué
+Aeropuerto Internacional Ezeiza
+Aldo Bonzi
+Alejandro Korn 
+Área de Promoción El Triángulo
+Bancalari
+Barrio Don Orione
+Barrio Parque General San Martín
+Barrio Ruta Sol
+Barrio Uno 
+Beccar
+Bella Vista 
+Belén de Escobar
+Benavídez
+Berazategui 
+Bernal
+Billinghurst
+Bosques 
+Boulogne Sur Mer 
+Burzaco
+Campo de Mayo
+Canning 
+Carlos Spegazzini
+Caseros
+Castelar
+Cañuelas
+Churruca 
+Ciudad de San Vicente 
+Ciudad Evita
+Ciudad Jardín El Libertador
+Ciudad Jardín Lomas del Palomar
+Ciudadela 
+Claypole
+Club de Campo Larena
+Cruce Varela
+Cuartel V
+Del Viso
+Dique Luján
+Don Bosco 
+Don Torcuato
+El Jagüel 
+El Libertador 
+El Palomar 
+El Pato
+El Talar 
+Estanislao Severo Zeballos 
+Ezeiza
+Ezpeleta
+Fátima 
+Francisco Álvarez 
+Garín
+General Pacheco
+General Rodríguez
+Glew
+Gobernador Julio A. Costa
+González Catán
+Grand Bourg
+Guernica 
+Haedo
+Hudson 
+Ingeniero Adolfo Sourdeaux
+Ingeniero Budge
+Ingeniero Juan Allan
+Ingeniero Maschwitz
+Ingeniero Pablo Nogués
+Isidro Casanova
+Ituzaingó 
+José C. Paz
+José Ingenieros 
+José León Suárez 
+José Mármol 
+Juan María Gutiérrez 
+La Capilla 
+La Reja
+La Tablada
+La Unión 
+Gregorio de Laferrere 
+Lagomarsino 
+Lanús
+Libertad 
+Llavallol
+Loma Hermosa
+Loma Verde (Escobar)
+Lomas del Mirador
+Longchamps
+Los Polvorines
+Luis Guillón
+Malvinas Argentinas
+Manuel Alberti 
+Manzanares 
+Maquinista F. Savio
+Marcos Paz 
+Mariano Acosta 
+Martín Coronado 
+Martínez 
+Matheu 
+Máximo Paz 
+Merlo 
+Ministro Rivadavia
+Monte Chingolo
+Monte Grande
+Moreno 
+Muñiz 
+Nordelta
+Nueve de Abril
+Once de Septiembre
+Pablo Podestá 
+Parque San Martín
+Paso del Rey
+Pereyra
+Pilar 
+Plátanos 
+Pontevedra 
+Presidente Derqui 
+Puerto Paraná 
+Punta Chica 
+Rafael Calzada
+Rafael Castillo
+Ramos Mejía
+Ranelagh
+Remedios de Escalada
+Remedios de Escalada
+Ricardo Rojas 
+Rincón de Milberg
+Sáenz Peña 
+San Andrés 
+San Antonio de Padua 
+San Francisco de Asís
+San Francisco Solano 
+San José
+San Justo 
+San Martín 
+San Miguel 
+Santa María
+Santos Lugares
+Sourigues 
+Tapiales
+Tortuguitas
+Tristán Suárez
+Troncos del Talar
+Trujui
+Turdera
+Valentín Alsina 
+Veinte de Junio
+Vicente López 
+Victoria (provincia de)
+Villa Adelina
+Villa Albertina 
+Villa Ayacucho
+Villa Ballester
+Villa Bernardo Monteagudo
+Villa Bosch
+Villa Brown
+Villa Celina
+Villa Centenario
+Villa Chacabuco
+Villa Coronel José M. Zapiola
+Villa de Mayo
+Villa Eduardo Madero
+Villa España
+Villa Fiorito
+Villa General Antonio J. de Sucre
+Villa General Eugenio Necochea
+Villa General José Tomás Guido
+Villa General Juan G. Las Heras
+Villa Godoy Cruz
+Villa Granaderos de San Martín
+Villa Gregoria Matorras
+Villa Juan Martín de Pueyrredón
+Villa La Florida
+Villa Libertad
+Villa Luzuriaga
+Villa Lynch
+Villa Maipú
+Villa Marqués Alejandro María de Aguado
+Villa María Irene de Los Remedios de Escalada
+Villa Parque Presidente Figueroa Alcorta
+Villa Parque San Lorenzo
+Villa Raffo
+Villa Rosa
+Villa San Luis
+Villa Santa Rosa 
+Villa Sarmiento 
+Villa Tesei
+Villa Udaondo
+Villa Vatteone
+Villa Yapeyú
+Virrey del Pino 
+Virreyes
+William C. Morris 
+Abasto
+Palermo Green
+Bajo AU7
+Tigre
+Villa Cartón
+Bajo Belgrano
+Belgrano Chico
+Bajo Flores
+Barrio Albarellos
+Barrio Alfredo Palacios
+Barrio Balbastro
+Barrio Calaza
+Barrio Cafferata
+Barrio Cardenal Santiago Copello
+Barrio Parque Almirante Brown Sector E
+Barrio Copello
+Conjunto Urbano Cardenal Copello
+Barrio Cardenal Samoré
+Barrio Chino
+Barrio Comandante Espora
+Barrio Comandante Luis Piedrabuena
+Barrio Constitución
+Barrio El Hogar Obrero
+Conjunto Villa del Parque
+Barrio Emilio Mitre
+Barrio Banco Municipal
+Barrio Falcón - Tellier
+Las Mil Casitas de Liniers
+Las Mil Casitas
+El Barrio de las Mil Casitas
+Barrio General de División Manuel Nicolás Savio
+Lugano I y II
+Conjunto Urbano Lugano I y II
+Barrio General José de San Martín
+Barrio 17 de Octubre
+Barrio Grafa
+Barrio Ingeniero Mascias
+Barrio Inglés
+Barrio El Hogar Argentino
+Barrio Irala
+Barrio J.J. Castro
+Barrio Parque Almirante Brown Sector A
+Barrio John F. Kennedy
+Barrio Juan José Nagera
+Nagera
+Barrio Dr. J.J. Nágera
+Barrio Parque Almirante Brown Sector C
+Barrio Juan XXIII
+Barrio Justo Suárez
+Barrio La Colonia
+Barrio Municipal Parque de los Patricios
+Barrio Los Perales
+Barrio Manuel Dorrego
+Barrio Mariano Castex
+Conjunto San Pedrito
+Barrio Mihanovich
+Barrio Mitre
+Barrio Modelo Villa Lugano
+Barrio Monseñor Espinoza
+Barrio Municipal Presidente Rivadavia
+Barrio Rivadavia I y II
+Barrio Naón
+Barrio Nazca
+Barrio Norte
+Barrio Obrero Marcelo T. de Alvear
+Barrio Parque Almirante Brown
+Barrio Las Casitas
+Barrio Parque Los Andes
+Casa Colectiva Parque Los Andes
+Barrio Plan Alborada 26
+Barrio Presidente Illia
+Barrio Presidente Roque Saenz Peña
+Barrio 1° de marzo de 1948
+Barrio Ramón Carrillo
+Barrio Ramón Carrillo 2
+Barrio AU7 Lacarra
+Barrio Residencial Cornelio Saavedra
+Barrio Sarmiento
+Barrio Juan Perón
+Barrio Cornelio Saavedra
+Barrio Presidente Perón
+Barrio Brigadier Cornelio Saavedra
+Barrio Rawson
+Barrio River
+Barrio San Vicente de Paul
+Barrio Segurola
+Barrio Simón Bolívar
+Barrio Soldati
+Conjunto Soldati
+Conjunto Habitacional Soldati
+Conjunto Urbano Soldati
+Barrio Sur
+Belgrano C
+Belgrano R 
+Barrio Butteler	
+Barrio Varela - Bonorino
+Calacita
+Catalinas Norte
+Ciudad Oculta
+Villa 15
+Barrio General Belgrano
+Ciudad Universitaria de Buenos Aires
+Ciudad Universitaria
+Congreso
+Conjunto Lem
+Conjunto Pampa
+Conjunto Rioja
+El Bajo
+La Cueva
+La imprenta
+Las Cañitas
+Microcentro
+Once
+Pacífico
+Palermo Boulevard
+Palermo Centro
+Palermo Botánico
+Zona del Botánico
+Palermo Chico
+Barrio Parque
+Palermo Coppola
+Palermo Dead
+Chacalermo
+Palermo Glam
+Alto Palermo
+Palermo Hollywood
+Palermo Nuevo
+Palermo Soho
+Palermo Viejo
+Palermo
+Parque Centenario
+Plaza Italia
+Plaza Serrano
+Primera Junta
+Puerto Nuevo
+San Benito
+Socorro
+riachuelo
+Tribunales
+Villa Dulce
+Villa Freud
+Vuelta de Rocha
