@@ -533,7 +533,7 @@ public class MainWindow {
 
 		//Lista de clases a usar
 		//Creación del NER
-		ner = new NER(false);
+		ner = new NER(true);
 		ner.setToLowerCase(toLowerCase);
 		Vector<DictionaryEntry> entradas = new Vector<DictionaryEntry>();
 		PreProcess preProcess = null;

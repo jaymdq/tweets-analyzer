@@ -104,7 +104,6 @@ public class AnalyzerWorker extends Thread {
 		@SuppressWarnings("unchecked")
 		Vector<Chunk> out = (Vector<Chunk>) chunks.clone();
 
-
 		Collections.sort(out, new ChunkComparatorByStart());
 
 		return out;
@@ -120,7 +119,7 @@ public class AnalyzerWorker extends Thread {
 				}
 			}
 			int i = chunks.size()-1;
-			if (chunks.elementAt(i-1).start() != chunks.elementAt(i).start() && chunks.elementAt(i-1).end() != chunks.elementAt(i).end())
+			if (out.lastElement().start() != chunks.elementAt(i).start() && out.lastElement().end() != chunks.elementAt(i).end())
 				out.add(chunks.elementAt(i));
 
 		}
@@ -156,8 +155,8 @@ public class AnalyzerWorker extends Thread {
 			String preProcessedTweet = this.ner.getLastPreProcessedString();
 
 			chunks = sortChunks(chunks);
-			chunks = removeSamePosChunks(chunks);
 			Collections.reverse(chunks);
+			chunks = removeSamePosChunks(chunks);
 
 			StringBuilder auxTweet = new StringBuilder(preProcessedTweet);
 			for(Chunk chunk : chunks){	
