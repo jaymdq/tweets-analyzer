@@ -354,12 +354,12 @@ public class MainWindow {
 
 	private String treeToText(TweetDefaultMutableTreeNode node,int level){
 		String aux="";
-		String out="";
+		String out=""; 
 		if (level > 0)
-			aux+="└";
+			aux+="|";
 		for (int i = 0; i < level; i++)
-			aux+="─";
-		out =aux + node.toString() + "<br>";
+			aux+="-";
+		out =aux + node.toString() + "<br>\r\n";
 		Enumeration<?> childrens = node.children();
 		while (childrens.hasMoreElements()){
 			TweetDefaultMutableTreeNode nextElement = (TweetDefaultMutableTreeNode) childrens.nextElement();
@@ -532,7 +532,7 @@ public class MainWindow {
 		}
 
 		//Lista de clases a usar
-		//Creación del NER
+		//Creacion del NER
 		ner = new NER(true);
 		ner.setToLowerCase(toLowerCase);
 		Vector<DictionaryEntry> entradas = new Vector<DictionaryEntry>();
@@ -550,7 +550,7 @@ public class MainWindow {
 			entries.addAll(DictionaryIO.loadPlainTextWithCategories(fileEntries));
 			entradas.addAll(new Vector<DictionaryEntry>(entries));
 
-			//Creación del PreProcess
+			//Creacion del PreProcess
 			if (preProcessRules != null){
 				PreProcessConfigurator preProcessConfigurator = new PreProcessConfigurator(PreProcess.class.getName(), preProcessRules);
 				preProcess = (PreProcess) preProcessConfigurator.configure("");
@@ -558,7 +558,7 @@ public class MainWindow {
 				ner.setDoPreProcess(!preProcessRules.isEmpty());
 			}
 
-			//Creación de Diccionarios
+			//Creacion de Diccionarios
 			//Diccionarios Exactos
 			if (configurationExactDictionary != null){
 				ExactDictionaryConfigurator eDC = new ExactDictionaryConfigurator(ExactDictionary.class.getName(),entradas);
@@ -580,7 +580,7 @@ public class MainWindow {
 				ner.addDictionary(dic3);
 			}
 
-			//Creación del SyntaxChecker
+			//Creacion del SyntaxChecker
 			if (configurationSyntaxChecker != null && !rulesSyntaxChecker.isEmpty()){
 				SyntaxCheckerConfigurator syntaxCheckerConfigurator = new SyntaxCheckerConfigurator(SyntaxChecker.class.getName(), null);
 				syntaxChecker = (SyntaxChecker) syntaxCheckerConfigurator.configure(configurationSyntaxChecker);

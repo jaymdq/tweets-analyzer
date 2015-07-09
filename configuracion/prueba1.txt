@@ -1,0 +1,96 @@
+# Archivo de ConfiguraciÃ³n.
+# Esto es un comentario.
+
+# NER
+
+# FILE-ENTRIES 
+# Archivo txt en donde se encuentre el diccionario entero. 
+# Si se especifican varios archivos se levantaran todos los diccionarios.
+# Esta opciÃ³n es obligatoria.
+
+FILE-ENTRIES=./dics/Diccionario.txt
+
+# TO-LOWERCASE
+# Se utilizan los textos en minuscula
+
+TO-LOWERCASE=true
+
+# PreProcess
+# Opcional
+# Si no se comenta entonces se harÃ¡ el preprocesamiento.
+# -s => Search
+# -r => Replace
+
+PREPROCESS-RULE= -s "([\.,:;\?\!#/])" -r " $1 "
+PREPROCESS-RULE= -s " {2,}" -r " "
+PREPROCESS-RULE= -s "[àáäâã]" -r "a"
+PREPROCESS-RULE= -s "[éèëê]" -r "e"
+PREPROCESS-RULE= -s "[ìíîï]" -r "i"
+PREPROCESS-RULE= -s "[òóôöõ]" -r "o"
+PREPROCESS-RULE= -s "[úùüû]" -r "u"
+
+# DICTIONARIES
+
+# EXACT-DICTIONARY
+# Opcional
+# -c => CaseSensitive = true.
+# -a => AllMatches = true
+
+# EXACT-DICTIONARY= -a
+
+# RULE-BASED-DICTIONARY
+# Opcional
+# Si no se comenta entonces se incluirÃ¡ este diccionario.
+# -s => Search
+# -m => Means
+
+RULE-BASED-DICTIONARY-RULE= -s "[A-Za-z0-9](([_\.\-]?[a-zA-Z0-9]+)*)@([A-Za-z0-9]+)(([\.\-]?[a-zA-Z0-9]+)*)\.([A-Za-z]{2,})" -m "Mail"
+RULE-BASED-DICTIONARY-RULE= -s "\b[0-9]+(?=\s)" -m "numero"
+RULE-BASED-DICTIONARY-RULE= -s "\b(y)+(?=\s)" -m "y"
+RULE-BASED-DICTIONARY-RULE= -s "\bal(?=\s)" -m "al"
+RULE-BASED-DICTIONARY-RULE= -s "\bl(a)+(?=\s)" -m "la"
+RULE-BASED-DICTIONARY-RULE= -s "\besquina(?=\s)" -m "esquina"
+RULE-BASED-DICTIONARY-RULE= -s "\bentre(?=\s)" -m "entre"
+RULE-BASED-DICTIONARY-RULE= -s "\bcaso(?=\s)" -m "casi"
+RULE-BASED-DICTIONARY-RULE= -s "\bd(e)+(?=\s)" -m "de"
+RULE-BASED-DICTIONARY-RULE= -s "\baltura(?=\s)" -m "al"	
+
+# APPROXIMATED-DICTIONARY
+# Opcional
+# Si no se comenta entonces se incluirÃ¡ este diccionario.
+# -l => LowerLimit = double
+# -n => N_Grams = int
+# -t => Threshold = int
+
+APPROXIMATED-DICTIONARY= -l 0.8 -n 2 -t 3
+
+# SYNTAX-CHECKER
+# Opcional
+# -l => KeepLargerChunks = true
+# -c => CharsBetween = int // By default 3
+
+SYNTAX-CHECKER= -l
+
+SYNONYMS= "Calle" "Ruta" "Avenida" "Autopista"
+
+# -s => Search
+# -m => Means
+
+SYNTAX-CHECKER-RULE= -s "Calle" "esquina" "Calle" -m "Interseccion"
+SYNTAX-CHECKER-RULE= -s "Calle" "y" "Calle" -m "Interseccion"
+SYNTAX-CHECKER-RULE= -s "Calle" "entre" "Calle" "y" "Calle" -m "Direccion Indeterminada"
+SYNTAX-CHECKER-RULE= -s "Calle" "casi" "Calle" -m "Direccion Indeterminada"
+SYNTAX-CHECKER-RULE= -s "Calle" "numero" -m "Direccion Determinada"
+SYNTAX-CHECKER-RULE= -s "Calle" "al" "numero" -m "Direccion Determinada"
+SYNTAX-CHECKER-RULE= -s "Calle" "al" "Numero" "Entre" "Calle" "y" "Calle" -m "Direccion Determinada"
+SYNTAX-CHECKER-RULE= -s "numero" "de" "Calle" -m "Direccion Determinada"
+
+#=====================================================================
+
+# EVENT-DETECTION
+
+# TWEVENT
+# -l => lowerLimit = double
+# -p => observationProb = double
+
+TWEVENT= -l 0.2 -p 0.2

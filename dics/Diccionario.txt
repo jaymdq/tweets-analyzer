@@ -658,6 +658,7 @@ jade
 verde veronés
 arlequín
 espárrago
+esparrago
 verde oliva
 verde cazador
 azul cobalto
@@ -683,12 +684,14 @@ cian
 turquesa
 celeste
 cerúleo
+ceruleo
 aguamarina
 amarillo
 limón
 oro
 dorado
 ámbar
+ambar
 amarillo indio
 amarillo selectivo
 marrón
@@ -700,11 +703,13 @@ caqui
 ocre
 siena
 siena pálido
+siena palido
 borgoña
 violeta
 lavanda floral
 amatista
 Púrpura
+Purpura
 púrpura de Tiro
 naranja
 anaranjado
@@ -1972,6 +1977,7 @@ colectivo
 colectivos
 cole
 autobús
+autobus
 autobuses
 minibus
 ómnibus
@@ -2005,6 +2011,8 @@ trenes
 subte
 subtes
 subterráneo
+subterraneo
+subterraneos
 subterráneos
 
 #CATEGORY Marca De Auto
@@ -4470,6 +4478,7 @@ Alte. Brown
 Ameghino
 América
 Antártida Argentina
+Antartida Argentina
 Antonena
 Arana
 Aristeguy
@@ -4489,16 +4498,20 @@ Buenos Aires
 C. Cadona
 Cadona
 C. Calfulcurá
+C. Calfulcura
 Calfulcurá
+Calfulcura
 Cabral
 Cagnoli
 Calihue
 Canadá
+Canada
 Carriego
 Cerrillada
 Cereseto
 Cesio
 Chapaleofú
+Chapaleofu
 Chapeaurouge
 Chienno
 Ciao
@@ -4566,6 +4579,7 @@ Cima
 Galfre
 Gardel
 González Pacheco
+Gonzalez Pacheco
 Gorman
 Gral. Lemos
 General Lemos
@@ -4580,6 +4594,7 @@ Güemes Norte
 Güemes Sur
 Haití
 Hernández
+Hernandez
 Hno Crisóstomo
 Holanda
 Huasañan
@@ -4587,6 +4602,8 @@ Huarruca
 Huemulen
 I.Fernández
 Fernández
+I.Fernandez
+Fernandez
 Ijurco
 Ingenieros
 Israel
@@ -4600,6 +4617,7 @@ J.Bisogni
 Bisogni
 Japón
 Juan XXIII
+Juárez
 Juárez
 Juldain
 Kramer
@@ -4618,6 +4636,7 @@ La Pesquería
 Labarden
 Lamadrid
 Langueyú
+Langueyu
 Lanza de Vasto
 Las Amapolas
 Las Azaleas
@@ -4633,6 +4652,7 @@ Las Orquídeas
 Las Petunias
 Las Violetas
 Lauraleofú
+Lauraleofu
 Leeson
 Lennon
 Lester
@@ -4648,6 +4668,7 @@ Los Huesos
 Los Mimbres
 Los Nogales
 Los Ombúes
+Los Ombues
 Los Pinos
 Los Sauces
 Los Talas
@@ -4666,6 +4687,7 @@ Macaya Colectora Norte
 Machado
 Magnasco
 Maipú
+Maipu
 Maritorena
 Marzoratti
 Massini
@@ -4675,6 +4697,7 @@ Mitre
 Morel
 Mosconi
 Napaleofú
+Napaleofu
 Neuquén
 Nigro
 Novoa
@@ -4685,6 +4708,7 @@ P. Sant Miqueu
 Sant Miqueu
 Palacios
 Panamá
+Panama
 Patagonia
 Payaniyeu
 Payró
@@ -4745,6 +4769,7 @@ Falkner
 Tacuarí
 Tomas M.
 Tucumán
+Tucuman
 Ugalde
 Ugarte
 Urquiza
@@ -4829,6 +4854,7 @@ Paseo
 vía
 vías
 vía pública
+vía publica
 arteria
 arterias
 avenida
@@ -4846,7 +4872,6 @@ carretera
 carreteras
 red
 redes
-rúa
 pasaje
 pasajes
 pasadizo
@@ -4912,6 +4937,8 @@ emergencia
 emergencias
 catástrofe
 catástrofes
+catastrofe
+catastrofes
 tragedia
 tragedias
 descarrilamiento
@@ -4922,6 +4949,7 @@ choques
 chocado
 chocados
 choque múltiple
+choque multiple
 choque en cadena
 colisión
 colisiones
@@ -4951,6 +4979,7 @@ Aeropuerto Internacional Ezeiza
 Aldo Bonzi
 Alejandro Korn 
 Área de Promoción El Triángulo
+area de Promoción El Triangulo
 Bancalari
 Barrio Don Orione
 Barrio Parque General San Martín
@@ -4984,6 +5013,7 @@ Cruce Varela
 Cuartel V
 Del Viso
 Dique Luján
+Dique Lujan
 Don Bosco 
 Don Torcuato
 El Jagüel 
@@ -4995,6 +5025,7 @@ Estanislao Severo Zeballos
 Ezeiza
 Ezpeleta
 Fátima 
+Fatima 
 Francisco Álvarez 
 Garín
 General Pacheco
@@ -5002,6 +5033,7 @@ General Rodríguez
 Glew
 Gobernador Julio A. Costa
 González Catán
+Gonzalez Catan
 Grand Bourg
 Guernica 
 Haedo
@@ -5016,7 +5048,12 @@ Ituzaingó
 José C. Paz
 José Ingenieros 
 José León Suárez 
+José León Suarez 
 José Mármol 
+Jose C. Paz
+Jose Ingenieros 
+Jose Leon Suarez  
+Jose Marmol 
 Juan María Gutiérrez 
 La Capilla 
 La Reja
@@ -5025,6 +5062,7 @@ La Unión
 Gregorio de Laferrere 
 Lagomarsino 
 Lanús
+Lanus
 Libertad 
 Llavallol
 Loma Hermosa
@@ -5043,6 +5081,7 @@ Martín Coronado
 Martínez 
 Matheu 
 Máximo Paz 
+Maximo Paz 
 Merlo 
 Ministro Rivadavia
 Monte Chingolo
@@ -5053,14 +5092,17 @@ Nordelta
 Nueve de Abril
 Once de Septiembre
 Pablo Podestá 
+Pablo Podesta 
 Parque San Martín
 Paso del Rey
 Pereyra
 Pilar 
 Plátanos 
+Platanos 
 Pontevedra 
 Presidente Derqui 
 Puerto Paraná 
+Puerto Parana
 Punta Chica 
 Rafael Calzada
 Rafael Castillo
@@ -5071,6 +5113,7 @@ Remedios de Escalada
 Ricardo Rojas 
 Rincón de Milberg
 Sáenz Peña 
+Saenz Peña 
 San Andrés 
 San Antonio de Padua 
 San Francisco de Asís
@@ -5085,6 +5128,7 @@ Sourigues
 Tapiales
 Tortuguitas
 Tristán Suárez
+Tristan Suárez
 Troncos del Talar
 Trujui
 Turdera
@@ -5120,6 +5164,7 @@ Villa Libertad
 Villa Luzuriaga
 Villa Lynch
 Villa Maipú
+Villa Maipu
 Villa Marqués Alejandro María de Aguado
 Villa María Irene de Los Remedios de Escalada
 Villa Parque Presidente Figueroa Alcorta
@@ -5133,6 +5178,7 @@ Villa Tesei
 Villa Udaondo
 Villa Vatteone
 Villa Yapeyú
+Villa Yapeyu
 Virrey del Pino 
 Virreyes
 William C. Morris 
@@ -5254,6 +5300,7 @@ Palermo Boulevard
 Palermo Centro
 Palermo Botánico
 Zona del Botánico
+Botanico
 Palermo Chico
 Barrio Parque
 Palermo Coppola

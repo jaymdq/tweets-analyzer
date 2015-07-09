@@ -110,27 +110,70 @@ public class AnalyzerWorker extends Thread {
 	}
 
 	private Vector<Chunk> removeSamePosChunks(Vector<Chunk> chunks){
-		Vector<Chunk> out = new Vector<Chunk>();
+		@SuppressWarnings("unchecked")
+		Vector<Chunk> out = (Vector<Chunk>) chunks.clone();
 
-		if (chunks.size() > 1){
-			for (int i = 0; i < chunks.size() - 1; i++){
-				if (chunks.elementAt(i).start() != chunks.elementAt(i+1).start() && chunks.elementAt(i).end() != chunks.elementAt(i+1).end()){
-					out.add(chunks.elementAt(i));
+		for (Chunk chunk1 : chunks){
+			for (Chunk chunk2 : chunks){
+				if( out.contains(chunk2) ){
+					if ( ! chunk1.equals(chunk2) ){
+						if  ( chunk1.start() >= chunk2.start() && chunk1.end() <= chunk2.end() ) {
+							if( ! chunk1.getText().equals(chunk2.getText()) ||
+									( chunk1.getText().equals(chunk2.getText()) && chunk1.getCategoryType().equals(chunk2.getCategoryType()) ) ){
+								if ( out.contains(chunk1) )
+									out.remove(chunk1);
+							}
+						}
+					}
 				}
 			}
-			int i = chunks.size()-1;
-			if (out.lastElement().start() != chunks.elementAt(i).start() && out.lastElement().end() != chunks.elementAt(i).end())
-				out.add(chunks.elementAt(i));
-
 		}
-		else
-			return chunks;
+
 		return out;
 	}
 
 	public void stopRunning()
 	{
 		running = false;
+	}
+
+	private Vector<Chunk> preProcess(Vector<Chunk> in,String text){
+		Vector<Chunk> out = new Vector<Chunk>();
+
+		Chunk chunk = null;
+		int i;
+		for ( i = 0; i < in.size() - 1; i++){
+
+			if (in.elementAt(i).start() <= in.elementAt(i+1).end()){
+				if (chunk == null){
+					chunk = new Chunk(in.elementAt(i+1).start(),in.elementAt(i).end(),"",text,1.0);
+				}else{
+					chunk = new Chunk(in.elementAt(i+1).start(),chunk.end(),"",text,1.0);
+				}
+
+			}else{
+				if(chunk == null)
+					chunk = new Chunk(in.elementAt(i).start(),in.elementAt(i).end(),"",text,1.0);
+				out.add(chunk);
+				chunk = null;
+			}
+		}
+		if(in.size() > 1){
+			if (in.elementAt(i-1).start() <= in.elementAt(i).end()){
+				if (chunk == null){
+					chunk = new Chunk(in.elementAt(i).start(),in.elementAt(i-1).end(),"",text,1.0);
+				}else{
+					chunk = new Chunk(in.elementAt(i).start(),chunk.end(),"",text,1.0);
+				}
+
+			}
+			if(chunk == null)
+				chunk = new Chunk(in.elementAt(i).start(),in.elementAt(i).end(),"",text,1.0);
+			out.add(chunk);
+		}else if(in.size() == 1)
+			out.add(in.firstElement());
+
+		return out;
 	}
 
 	@Override
@@ -158,8 +201,9 @@ public class AnalyzerWorker extends Thread {
 			Collections.reverse(chunks);
 			chunks = removeSamePosChunks(chunks);
 
+			Vector<Chunk> temp = preProcess(chunks,preProcessedTweet);
 			StringBuilder auxTweet = new StringBuilder(preProcessedTweet);
-			for(Chunk chunk : chunks){	
+			for(Chunk chunk : temp){	
 				auxTweet.insert(chunk.end(), "</span>");	
 				auxTweet.insert(chunk.start(), "<span style=\"color:red\">");
 			}
@@ -211,7 +255,7 @@ public class AnalyzerWorker extends Thread {
 			}
 
 		}
-		
+
 		//This generate arff file
 		Vector< Vector<AbsChunk> > chunkList = new Vector< Vector<AbsChunk> >();
 		for(Pair< String, Vector<Chunk> > pair : toAnalyze){
