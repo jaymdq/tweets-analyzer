@@ -14,12 +14,12 @@ AU8
 AU9 9 de Julio
 Autopista Acceso Norte
 Autopista Acceso Oeste
-Autopista Ezeiza-Ca√±uelas
+Autopista Ezeiza-CaÒuelas
 Camino Negro
 Camino Parque del Buen Ayre
 Acceso Norte
 Acceso Oeste
-Ezeiza-Ca√±uelas
+Ezeiza-CaÒuelas
 
 #CATEGORY Modelo Fiat
 
@@ -30,7 +30,7 @@ Fiat 12 HP
 Fiat 124
 Fiat 125
 Fiat 125 Mirafiori
-Fiat 125 Centuri√≥n
+Fiat 125 CenturiÛn
 Fiat 126
 Fiat 127
 Fiat 128
@@ -63,9 +63,9 @@ Fiat Albea
 Fiat Barchetta
 Fiat Bravo
 Fiat Cinquecento
-Fiat Coup√©
+Fiat CoupÈ
 Fiat Croma
-Fiat Dobl√≤
+Fiat DoblÚ
 Fiat Duna
 Fiat Elba
 Fiat 242
@@ -80,7 +80,7 @@ Fiat Multipla
 Fiat Ottimo
 Fiat Palio
 Fiat Panda
-Fiat Pininfarina Coup√© y Cabriolet
+Fiat Pininfarina CoupÈ y Cabriolet
 Fiat Qubo
 Fiat Regata
 Fiat Ritmo
@@ -90,16 +90,16 @@ Fiat Stilo
 Fiat Tipo/Tempra
 Fiat Ulysse
 Fiat Uno
-Fiat 1500 Coup√© Vignale
+Fiat 1500 CoupÈ Vignale
 Fiat Viaggio
 Fiat X1/9
 Albea
 Barchetta
 Bravo
 Cinquecento
-Coup√©
+CoupÈ
 Croma
-Dobl√≤
+DoblÚ
 Duna
 Punto
 Freemont
@@ -110,7 +110,7 @@ Multipla
 Ottimo
 Palio
 Panda
-Pininfarina Coup√© y Cabriolet
+Pininfarina CoupÈ y Cabriolet
 Qubo
 Regata
 Ritmo
@@ -119,7 +119,7 @@ Seicento
 Stilo
 Tempra
 Ulysse
-1500 Coup√© Vignale
+1500 CoupÈ Vignale
 Viaggio
 
 #CATEGORY Modelo Chevrolet
@@ -642,11 +642,11 @@ ESMERALDA
 LIMA
 rojo
 colorado
-carmes√≠
-bermell√≥n
+carmesÌ
+bermellÛn
 escarlata
 granate
-carm√≠n
+carmÌn
 amaranto
 verde
 chartreuse
@@ -655,20 +655,20 @@ verde agua
 verdeagua
 agua marina
 jade
-verde veron√©s
-arlequ√≠n
-esp√°rrago
+verde veronÈs
+arlequÌn
+esp·rrago
 esparrago
 verde oliva
 verde cazador
 azul cobalto
 azul marino
-azul petr√≥leo
+azul petrÛleo
 azur
 zafiro
-a√±il
-√≠ndigo
-turqu√≠
+aÒil
+Ìndigo
+turquÌ
 azul de Prusia
 azul majorelle
 azul Klein
@@ -677,44 +677,44 @@ fucsia
 morado
 malva
 lila
-salm√≥n
+salmÛn
 lavanda
 rosa
 cian
 turquesa
 celeste
-cer√∫leo
+cer˙leo
 ceruleo
 aguamarina
 amarillo
-lim√≥n
+limÛn
 oro
 dorado
-√°mbar
+·mbar
 ambar
 amarillo indio
 amarillo selectivo
-marr√≥n
+marrÛn
 pardo
-caf√©
+cafÈ
 chocolate
-casta√±o
+castaÒo
 caqui
 ocre
 siena
-siena p√°lido
+siena p·lido
 siena palido
-borgo√±a
+borgoÒa
 violeta
 lavanda floral
 amatista
-P√∫rpura
+P˙rpura
 Purpura
-p√∫rpura de Tiro
+p˙rpura de Tiro
 naranja
 anaranjado
 coral
-s√©samo
+sÈsamo
 albaricoque
 beis
 beige
@@ -772,9 +772,9 @@ AV. CARLOS CALVO
 AV. CARLOS J. FINLAY
 AV. CASARES
 AV. CASEROS
-AV. CASTA√ëARES
+AV. CASTA—ARES
 AV. CASTRO BARROS
-AV. CERVI√ëO
+AV. CERVI—O
 AV. CHICLANA
 AV. CHILE
 AV. CHIVILCOY
@@ -799,7 +799,7 @@ AV. COSTANERA DOCTOR TRISTAN ACHAVAL RODRIGUEZ
 AV. COSTANERA INTENDENTE HERNAN M. GIRALT
 AV. COSTANERA RAFAEL OBLIGADO
 AV. CRAMER
-AV. CURAPALIG√úE
+AV. CURAPALIG‹E
 AV. DARACT
 AV. DE LOS CONSTITUYENTES
 AV. DE LOS CORRALES
@@ -828,7 +828,7 @@ AV. ENTRE RIOS
 AV. EREZCANO
 AV. ERNESTO TORNQUIST
 AV. ESCALADA
-AV. ESPA√ëA
+AV. ESPA—A
 AV. ESTADO DE ISRAEL
 AV. EVA PERON
 AV. FEDERICO LACROZE
@@ -908,7 +908,7 @@ AV. PRESIDENTE FIGUEROA ALCORTA
 AV. PRESIDENTE PEDRO MONTT
 AV. PRESIDENTE QUINTANA
 AV. PRESIDENTE RAMON S. CASTILLO
-AV. PRESIDENTE ROQUE SAENZ PE√ëA
+AV. PRESIDENTE ROQUE SAENZ PE—A
 AV. PTE. JULIO A. ROCA
 AV. PUEYRREDON
 AV. RAUL SCALABRINI ORTIZ
@@ -985,9 +985,9 @@ Avenida CARLOS CALVO
 Avenida CARLOS J. FINLAY
 Avenida CASARES
 Avenida CASEROS
-Avenida CASTA√ëARES
+Avenida CASTA—ARES
 Avenida CASTRO BARROS
-Avenida CERVI√ëO
+Avenida CERVI—O
 Avenida CHICLANA
 Avenida CHILE
 Avenida CHIVILCOY
@@ -1012,7 +1012,7 @@ Avenida COSTANERA DOCTOR TRISTAN ACHAVAL RODRIGUEZ
 Avenida COSTANERA INTENDENTE HERNAN M. GIRALT
 Avenida COSTANERA RAFAEL OBLIGADO
 Avenida CRAMER
-Avenida CURAPALIG√úE
+Avenida CURAPALIG‹E
 Avenida DARACT
 Avenida DE LOS CONSTITUYENTES
 Avenida DE LOS CORRALES
@@ -1041,7 +1041,7 @@ Avenida ENTRE RIOS
 Avenida EREZCANO
 Avenida ERNESTO TORNQUIST
 Avenida ESCALADA
-Avenida ESPA√ëA
+Avenida ESPA—A
 Avenida ESTADO DE ISRAEL
 Avenida EVA PERON
 Avenida FEDERICO LACROZE
@@ -1121,7 +1121,7 @@ Avenida PRESIDENTE FIGUEROA ALCORTA
 Avenida PRESIDENTE PEDRO MONTT
 Avenida PRESIDENTE QUINTANA
 Avenida PRESIDENTE RAMON S. CASTILLO
-Avenida PRESIDENTE ROQUE SAENZ PE√ëA
+Avenida PRESIDENTE ROQUE SAENZ PE—A
 Avenida PTE. JULIO A. ROCA
 Avenida PUEYRREDON
 Avenida RAUL SCALABRINI ORTIZ
@@ -1198,9 +1198,9 @@ CARLOS CALVO
 CARLOS J. FINLAY
 CASARES
 CASEROS
-CASTA√ëARES
+CASTA—ARES
 CASTRO BARROS
-CERVI√ëO
+CERVI—O
 CHICLANA
 CHILE
 CHIVILCOY
@@ -1225,7 +1225,7 @@ COSTANERA DOCTOR TRISTAN ACHAVAL RODRIGUEZ
 COSTANERA INTENDENTE HERNAN M. GIRALT
 COSTANERA RAFAEL OBLIGADO
 CRAMER
-CURAPALIG√úE
+CURAPALIG‹E
 DARACT
 DE LOS CONSTITUYENTES
 DE LOS CORRALES
@@ -1254,7 +1254,7 @@ ENTRE RIOS
 EREZCANO
 ERNESTO TORNQUIST
 ESCALADA
-ESPA√ëA
+ESPA—A
 ESTADO DE ISRAEL
 EVA PERON
 FEDERICO LACROZE
@@ -1334,7 +1334,7 @@ PRESIDENTE FIGUEROA ALCORTA
 PRESIDENTE PEDRO MONTT
 PRESIDENTE QUINTANA
 PRESIDENTE RAMON S. CASTILLO
-PRESIDENTE ROQUE SAENZ PE√ëA
+PRESIDENTE ROQUE SAENZ PE—A
 PTE. JULIO A. ROCA
 PUEYRREDON
 RAUL SCALABRINI ORTIZ
@@ -1351,7 +1351,7 @@ SALVADOR MARIA DEL CARRIL
 SAN ISIDRO
 SAN JUAN
 SAN JUAN BAUTISTA DE LA SALLE
-SAN MART√çN
+SAN MARTÕN
 SAN PEDRITO
 SANCHEZ DE LORIA
 SANTA FE
@@ -1377,73 +1377,73 @@ BOULEVAR AZUCENA VILLAFLOR
 AZUCENA VILLAFLOR
 BOULEVAR CECILIA GRIERSON
 CECILIA GRIERSON
-BOULEVAR MACACHA G√úEMES
-MACACHA G√úEMES
-BOULEVAR ROSARIO VERA PE√ëALOZA
-ROSARIO VERA PE√ëALOZA
+BOULEVAR MACACHA G‹EMES
+MACACHA G‹EMES
+BOULEVAR ROSARIO VERA PE—ALOZA
+ROSARIO VERA PE—ALOZA
 DON BOSCO
 ESTRADA
 FALUCHO
 PUJOL
-Balb√≠n
-Bol√≠var
-Buz√≥n
-Col√≥n
+BalbÌn
+BolÌvar
+BuzÛn
+ColÛn
 Espora
 Campos, Luis M.
 Campos
 Del Valle
-D√≠az V√©lez
+DÌaz VÈlez
 J.B. Justo
 L. de Osornio
 Osornio
 Lunghi
 M. D' Andrea
 Marconi
-Per√≥n, Pte.Per√≥n, Eva
-Per√≥n
+PerÛn, Pte.PerÛn, Eva
+PerÛn
 S. Lamas
 Lamas
 San Gabriel
 Santamarina
-Av. Balb√≠n
-Av. Bol√≠var
-Av. Buz√≥n
-Av. Col√≥n
+Av. BalbÌn
+Av. BolÌvar
+Av. BuzÛn
+Av. ColÛn
 Av. Espora
 Av. Estrada
 Av. Falucho
 Av. Campos, Luis M.
 Av. Del Valle
-Av. D√≠az V√©lez
+Av. DÌaz VÈlez
 Av. Don Bosco
 Av. J.B. Justo
 Av. L. de Osornio
 Av. Lunghi
 Av. M. D' Andrea
 Av. Marconi
-Av. Per√≥n, Pte.Av. Per√≥n, Eva
+Av. PerÛn, Pte.Av. PerÛn, Eva
 Av. Pujol
 Av. S. Lamas
 Av. San Gabriel
 Av. Santamarina
-Avenida Balb√≠n
-Avenida Bol√≠var
-Avenida Buz√≥n
-Avenida Col√≥n
+Avenida BalbÌn
+Avenida BolÌvar
+Avenida BuzÛn
+Avenida ColÛn
 Avenida Espora
 Avenida Estrada
 Avenida Falucho
 Avenida Campos, Luis M.
 Avenida Del Valle
-Avenida D√≠az V√©lez
+Avenida DÌaz VÈlez
 Avenida Don Bosco
 Avenida J.B. Justo
 Avenida L. de Osornio
 Avenida Lunghi
 Avenida M. D' Andrea
 Avenida Marconi
-Avenida Per√≥n, Pte.Avenida Per√≥n, Eva
+Avenida PerÛn, Pte.Avenida PerÛn, Eva
 Avenida Pujol
 Avenida S. Lamas
 Avenida San Gabriel
@@ -1451,13 +1451,13 @@ Avenida Santamarina
 
 #CATEGORY Tipo Persona
 
-Transe√∫nte
+Transe˙nte
 viandante
-peat√≥n
+peatÛn
 peatones
 conductor
 conductores
-ch√≥fer
+chÛfer
 choferes
 taxista
 taxistas
@@ -1466,60 +1466,60 @@ vendedor callejero
 barrendero
 repartidor
 
-#CATEGORY Modelo Citro√´n
+#CATEGORY Modelo CitroÎn
 
-Citro√´n 2CV
-Citro√´n Acadiane
-Citro√´n Ami
-Citro√´n AX
-Citro√´n Berlingo
-Citro√´n BX
-Citro√´n C-Airplay
-Citro√´n C-Buggy
-Citro√´n C-Crosser
-Citro√´n Elys√©e
-Citro√´n C-M√©tisse
-Citro√´n C15
-Citro√´n H
-Citro√´n C2
-Citro√´n C3
-Citro√´n C3 Picasso
-Citro√´n C4
-Citro√´n C4 Picasso
-Citro√´n C5
-Citro√´n C6
-Citro√´n C8
-Citro√´n Axel
+CitroÎn 2CV
+CitroÎn Acadiane
+CitroÎn Ami
+CitroÎn AX
+CitroÎn Berlingo
+CitroÎn BX
+CitroÎn C-Airplay
+CitroÎn C-Buggy
+CitroÎn C-Crosser
+CitroÎn ElysÈe
+CitroÎn C-MÈtisse
+CitroÎn C15
+CitroÎn H
+CitroÎn C2
+CitroÎn C3
+CitroÎn C3 Picasso
+CitroÎn C4
+CitroÎn C4 Picasso
+CitroÎn C5
+CitroÎn C6
+CitroÎn C8
+CitroÎn Axel
 Citroen C-Elyse
-Citro√´n C Elysee
-Citro√´n C-SportLounge
-Citro√´n C4 Aircross
-Citro√´n CX
-Citro√´n DS
-Citro√´n DS3
-Citro√´n DS4
-Citro√´n DS5
-Citro√´n Dyane
-Citro√´n Evasion
-Citro√´n GS
-Citro√´n Hypnos
-Citro√´n Jumper
-Citro√´n Jumpy
-Citro√´n Lacoste
-Citro√´n LNA
-Citro√´n Nemo
-Citro√´n Revolte
-Citro√´n Saxo
-Citro√´n SM
-Citro√´n Survolt
-Citro√´n Traction Avant
-Citro√´n Visa
-Citro√´n Xantia
-Citro√´n XM
-Citro√´n Xsara
-Citro√´n Xsara Picasso
-Citro√´n Zabrus
-Citro√´n ZX
+CitroÎn C Elysee
+CitroÎn C-SportLounge
+CitroÎn C4 Aircross
+CitroÎn CX
+CitroÎn DS
+CitroÎn DS3
+CitroÎn DS4
+CitroÎn DS5
+CitroÎn Dyane
+CitroÎn Evasion
+CitroÎn GS
+CitroÎn Hypnos
+CitroÎn Jumper
+CitroÎn Jumpy
+CitroÎn Lacoste
+CitroÎn LNA
+CitroÎn Nemo
+CitroÎn Revolte
+CitroÎn Saxo
+CitroÎn SM
+CitroÎn Survolt
+CitroÎn Traction Avant
+CitroÎn Visa
+CitroÎn Xantia
+CitroÎn XM
+CitroÎn Xsara
+CitroÎn Xsara Picasso
+CitroÎn Zabrus
+CitroÎn ZX
 Citroen Acadiane
 Citroen Ami
 Citroen AX
@@ -1528,8 +1528,8 @@ Citroen BX
 Citroen C-Airplay
 Citroen C-Buggy
 Citroen C-Crosser
-Citroen Elys√©e
-Citroen C-M√©tisse
+Citroen ElysÈe
+Citroen C-MÈtisse
 Citroen C15
 Citroen H
 Citroen C2
@@ -1575,8 +1575,8 @@ Berlingo
 C-Airplay
 C-Buggy
 C-Crosser
-Elys√©e
-C-M√©tisse
+ElysÈe
+C-MÈtisse
 C15
 C2
 C3
@@ -1627,7 +1627,7 @@ Maico
 Megola
 NSU Motorenwerke AG|NSU
 Sachs
-Z√ºndapp
+Z¸ndapp
 Horex
 Brava
 Corven Motos
@@ -1643,7 +1643,7 @@ Husaberg
 KTM
 Puch
 Fabrique National
-Sarol√©a
+SarolÈa
 Minsk
 Dafra
 Sundown
@@ -1697,7 +1697,7 @@ Sanglas
 Setter
 Soriano
 Torrot
-Villalv√≠
+VillalvÌ
 Villof
 Boss Hoss
 Buell
@@ -1796,7 +1796,7 @@ Moto Islo
 Italika
 Motocicletas Kurazai
 Kurazai
-Motor¬¥s Heaven
+Motor¥s Heaven
 Vento
 Zanetti
 Britten Motorcycles
@@ -1825,22 +1825,22 @@ embotellamiento
 embotellamientos
 embotellarse
 reparar la calle
-reparaci√≥n de la calle
+reparaciÛn de la calle
 atasco
 atascado
 atascos
 estorbo
 estorbos
-detenci√≥n
+detenciÛn
 detenciones
-congesti√≥n
+congestiÛn
 congestionamiento
 congestionado
 congestionamientos
 congestiones
 cerrado
 cerrada
-acumulaci√≥n
+acumulaciÛn
 estancamiento
 estancado
 estancados
@@ -1855,7 +1855,7 @@ corte total
 corte parcial
 cortado
 cortada
-retenci√≥n
+retenciÛn
 parado
 parados
 demora
@@ -1869,17 +1869,17 @@ detenido
 detenidos
 detenida
 trabada
-manifestaci√≥n
+manifestaciÛn
 manifestante
 manifestantes
 manifestaciones
-concentraci√≥n
+concentraciÛn
 carril reducido
 reducido
 carril lento
-reducci√≥n de calzada
+reducciÛn de calzada
 frenada
-tr√°nsito lento
+tr·nsito lento
 transito lento
 retraso
 retrasos
@@ -1938,14 +1938,14 @@ Peugeot J5
 Peugeot Oxia
 Peugeot RCZ
 
-#CATEGORY Veh√≠culo
+#CATEGORY VehÌculo
 
 auto
-autom√≥vil
+automÛvil
 autos
-autom√≥viles
-veh√≠culo
-veh√≠culos
+automÛviles
+vehÌculo
+vehÌculos
 coche
 coches
 carruaje
@@ -1957,13 +1957,13 @@ carretas
 todo terreno
 patrullero
 patrulleros
-furg√≥n
+furgÛn
 furgones
 furgoneta
 furgonetas
-cami√≥n
+camiÛn
 camiones
-cami√≥n de transporte
+camiÛn de transporte
 camiones de transporte
 camioneta
 camionetas
@@ -1976,12 +1976,12 @@ bondis
 colectivo
 colectivos
 cole
-autob√∫s
+autob˙s
 autobus
 autobuses
 minibus
-√≥mnibus
-√≥mnibuses
+Ûmnibus
+Ûmnibuses
 colectivo de larga distancia
 colectivos de larga distancia
 coche de larga distancia
@@ -2010,10 +2010,10 @@ tren
 trenes
 subte
 subtes
-subterr√°neo
+subterr·neo
 subterraneo
 subterraneos
-subterr√°neos
+subterr·neos
 
 #CATEGORY Marca De Auto
 
@@ -2056,7 +2056,7 @@ Acura
 Mecury
 Chevrolet
 Alfa Romeo
-Citro√´n
+CitroÎn
 
 #CATEGORY Ruta
 
@@ -2454,7 +2454,7 @@ Renault Egeus
 Renault Espace
 Renault Express
 Renault Fluence
-Renault Fr√©gate
+Renault FrÈgate
 Renault Fuego
 Renault Grand Modus
 Renault Juvaquatre
@@ -2466,7 +2466,7 @@ Renault Latitude
 Renault Magnum
 Renault Mascott
 Renault Master
-Renault M√©gane
+Renault MÈgane
 Renault Modus
 Renault Monaquatre
 Renault Megane III RS Trophy
@@ -2481,7 +2481,7 @@ Renault Trucks T
 Renault Safrane
 Renault Sandero
 Renault Dacia
-Renault Sc√©nic
+Renault ScÈnic
 Renault Supercinco
 Renault Symbol
 Renault Talisman
@@ -2499,14 +2499,14 @@ AV. AVELLANEDA
 AV. BRASIL
 AV. CABILDO
 AV. DORREGO
-AV. ESPA√ëA
+AV. ESPA—A
 AV. RIVADAVIA
 Avenida ALVEAR
 Avenida AVELLANEDA
 Avenida BRASIL
 Avenida CABILDO
 Avenida DORREGO
-Avenida ESPA√ëA
+Avenida ESPA—A
 Avenida RIVADAVIA
 9 DE JULIO
 ACOYTE
@@ -2528,7 +2528,7 @@ CALLAO
 CARLOS CALVO
 CASEROS
 CASTRO BARROS
-CERVI√ëO
+CERVI—O
 CHILE
 CHIVILCOY
 CHORROARIN
@@ -2542,7 +2542,7 @@ CORONEL ESTEBAN BONORINO
 CORONEL NICETO VEGA
 CORRIENTES
 CRAMER
-CURAPALIG√úE
+CURAPALIG‹E
 DEL BARCO CENTENERA
 DEL LIBERTADOR
 DIRECTORIO
@@ -2552,7 +2552,7 @@ EMILIO CASTRO
 ENTRE RIOS
 EREZCANO
 ESCALADA
-ESPA√ëA
+ESPA—A
 FEDERICO LACROZE
 FRANCISCO BILBAO
 FRANKLIN D. ROOSEVELT
@@ -2605,8 +2605,8 @@ TENIENTE GENERAL DONATO ALVAREZ
 TILCARA
 URUGUAY
 VARELA
-√ëANDUTI
-1¬∫ DE MAYO
+—ANDUTI
+1∫ DE MAYO
 11 DE SEPTIEMBRE DE 1888
 12 DE OCTUBRE
 14 DE JULIO
@@ -2618,7 +2618,7 @@ VARELA
 25 DE MAYO
 3 DE FEBRERO
 5 DE JULIO
-A√ëASCO
+A—ASCO
 ABRAHAM J. LUPPI
 ACASSUSO
 ACEVEDO
@@ -2632,7 +2632,7 @@ ADOLFO ALSINA
 ADOLFO GONZALES CHAVES
 ADOLFO P. CARRANZA
 ADOLFO SALDIAS
-AG√úERO
+AG‹ERO
 AGACES
 AGENTE CEFERINO GARCIA
 AGENTE DOMINGO DEDICO
@@ -2650,7 +2650,7 @@ AIME PAINE
 AIZPURUA
 ALAGON
 ALBANIA
-ALBARI√ëO
+ALBARI—O
 ALBARRACIN
 ALBERTI
 ALBERTO EINSTEIN
@@ -2659,7 +2659,7 @@ ALBERTO WILLIAMS
 ALCARAZ
 ALEJANDRO DUMAS
 ALEJANDRO F. MOHR
-ALEJANDRO MAGARI√ëOS CERVANTES
+ALEJANDRO MAGARI—OS CERVANTES
 ALEJANDRO MARIA DE AGUADO
 ALEMANIA
 ALFARERO
@@ -2684,7 +2684,7 @@ ALONSO RODRIGUEZ
 ALPATACAL
 ALTA GRACIA
 ALTOLAGUIRRE
-ALVAR NU√ëEZ
+ALVAR NU—EZ
 ALVARADO
 ALZAGA
 AMADEO JACQUES
@@ -2736,7 +2736,7 @@ ARCOS
 ARENALES
 ARENGREEN
 AREVALO
-ARGA√ëARAS
+ARGA—ARAS
 ARGELIA
 ARGERICH
 ARIAS
@@ -2750,7 +2750,7 @@ ARNALDO D'ESPOSITO
 AROMA
 AROMO
 ARQUIMEDES
-ARRIBE√ëOS
+ARRIBE—OS
 ARRIOLA
 ARROTEA
 ARROYO
@@ -2795,7 +2795,7 @@ BALDOMERO FERNANDEZ MORENO
 BALLIVIAN
 BALTASAR DE UNQUERA
 BARADERO
-BARAGA√ëA
+BARAGA—A
 BARCA CABO DE HORNOS
 BARCALA
 BARCELONA
@@ -2827,9 +2827,9 @@ BELLA VISTA
 BENITO JUAREZ
 BENITO QUINQUELA MARTIN
 BENJAMIN J. LAVAISSE
-BENJAMIN VILLAFA√ëE
+BENJAMIN VILLAFA—E
 BERGANTIN CONGRESO NACIONAL
-BERGANTIN ECHAG√úE
+BERGANTIN ECHAG‹E
 BERGANTIN GENERAL BELGRANO
 BERGANTIN GOLETA ESPORA
 BERGANTIN NANCY
@@ -2856,7 +2856,7 @@ BLANCO ENCALADA
 BLANDENGUES
 BOGADO
 BOGOTA
-BOLA√ëOS
+BOLA—OS
 BOLIVAR
 BOLIVIA
 BOLLINI
@@ -2883,9 +2883,9 @@ BURGOS
 BUTTELER
 BYNON
 BYRON
-CA√ëADA DE GOMEZ
-CA√ëONERA AMERICA
-CA√ëUELAS
+CA—ADA DE GOMEZ
+CA—ONERA AMERICA
+CA—UELAS
 CAAGUAZU
 CABALLITO
 CABELLO
@@ -2958,8 +2958,8 @@ CARRASCO
 CASACUBERTA
 CASAFOUST
 CASCO
-CASTA√ëEDA
-CASTA√ëON
+CASTA—EDA
+CASTA—ON
 CASTELLI
 CASTEX
 CASTILLO
@@ -3013,7 +3013,7 @@ CNEL. RAMON LISTA
 COCHABAMBA
 COCHICO
 COCHRANE
-COLIG√úE
+COLIG‹E
 COLIQUEO
 COLOMBRES
 COLONIA
@@ -3091,7 +3091,7 @@ CUTER LUISITO
 CUYO
 CUZCO
 DAGUERRE
-DAMASO LARRA√ëAGA
+DAMASO LARRA—AGA
 DANEL
 DANTE
 DARDO ROCHA
@@ -3110,7 +3110,7 @@ DEAN FUNES
 DEFENSA
 DEHEZA
 DEKAY
-DEL BA√ëADO
+DEL BA—ADO
 DEL BUEN ORDEN
 DEL CARMEN
 DEL COLEGIO
@@ -3143,7 +3143,7 @@ DOCTOR EDUARDO JENNER
 DOCTOR ENRIQUE FINOCHIETTO
 DOCTOR FLORENTINO AMEGHINO
 DOCTOR GERARDO ARMAUER HANSEN
-DOCTOR JOS√â MODESTO GIUFFRA
+DOCTOR JOS… MODESTO GIUFFRA
 DOCTOR JOSE IGNACIO DE LA ROSA
 DOCTOR JUAN MADERA
 DOCTOR NICOLAS REPETTO
@@ -3166,7 +3166,7 @@ DR. ANGEL H. ROFFO
 DR. ANGEL ROBBIANI
 DR. BENJAMIN CANARD
 DR. CARLOS VAZ FERREIRA
-DR. DAVID PE√ëA
+DR. DAVID PE—A
 DR. DOMINGO CABRED
 DR. EDUARDO BRAUN MENENDEZ
 DR. EDUARDO PITTALUGA
@@ -3188,7 +3188,7 @@ DR. LUIS BELAUSTEGUI
 DR. MARCELO J. FITTE
 DR. NORBERTO QUIRNO COSTA
 DR. PEDRO IGNACIO RIVERA
-DR. PEDRO LUIS BALI√ëA
+DR. PEDRO LUIS BALI—A
 DR. RAFAEL BIELSA
 DR. RICARDO LEVENE
 DR. RICARDO ROJAS
@@ -3214,7 +3214,7 @@ EDUARDO GUTIERREZ
 EDUARDO JUAN COUTURE
 EDUARDO SCHIAFFINO
 EDUARDO SIVORI
-EL √ëANDU
+EL —ANDU
 EL ALFABETO
 EL ARAUCANO
 EL ARTESANO
@@ -3355,7 +3355,7 @@ FRAGATA LA ARGENTINA
 FRAGATA PRESIDENTE SARMIENTO
 FRAGATA TRINIDAD
 FRAGUEIRO
-FRANCISCO ACU√ëA DE FIGUEROA
+FRANCISCO ACU—A DE FIGUEROA
 FRANCISCO ANTONIO MACIEL
 FRANCISCO BAUZA
 FRANCISCO CAFFERATA
@@ -3376,7 +3376,7 @@ FRAY CAYETANO RODRIGUEZ
 FRAY JUSTO SANTA MARIA DE ORO
 FRAY LUIS BELTRAN
 FRENCH
-G√úEMES
+G‹EMES
 GABINO EZEIZA
 GABRIEL LAFOND
 GABRIELA MISTRAL
@@ -3433,7 +3433,7 @@ GOLETA MANUELITA
 GOLETA SANTA CRUZ
 GOLETA SARANDI
 GOMEZ DE FONSECA
-GON√áALVES DIAS
+GON«ALVES DIAS
 GONZALEZ CATAN
 GOROSTIAGA
 GORRITI
@@ -3505,11 +3505,11 @@ HUEMUL
 HUERGO
 HUMAHUACA
 HUMAITA
-HUMBERTO 1¬∫
+HUMBERTO 1∫
 HUMBOLDT
 HUNGRIA
 HUSARES
-IBA√ëEZ
+IBA—EZ
 IBARROLA
 IBERA
 ICALMA
@@ -3521,7 +3521,7 @@ INCLAN
 INDALECIO GOMEZ
 INDIO
 INGENIERO AGUSTIN GONZALEZ
-INGENIERO CARLOS ECHAG√úE
+INGENIERO CARLOS ECHAG‹E
 INGENIERO ENRIQUE BUTTY
 INGENIERO ENRIQUE M. HERMITTE
 INGENIERO JOSE ESTEVEZ
@@ -3529,7 +3529,7 @@ INGENIERO JULIO KRAUSE
 INT. CARLOS NOEL
 INTENDENTE BUNGE
 INTENDENTE CANTILO
-INTENDENTE G√úIRALDES
+INTENDENTE G‹IRALDES
 INTENDENTE PINEDO
 IRALA
 IRIGOYEN
@@ -3591,7 +3591,7 @@ JOSE MARMOL
 JOSE MARTI
 JOSE ORTEGA Y GASSET
 JOSE P. TAMBORINI
-JOSE PABLO TORCUATO BATLLE Y ORDO√ëEZ
+JOSE PABLO TORCUATO BATLLE Y ORDO—EZ
 JOSE PAZOS
 JOSE PEDRO VARELA
 JOSE PIO MUJICA
@@ -3648,7 +3648,7 @@ JUNCAL
 JUNIN
 JUSTO ANTONIO SUAREZ
 KING
-L√úCHTER (SUR)
+L‹CHTER (SUR)
 LA BLANQUEADA
 LA CACHILA
 LA CALANDRIA
@@ -3675,10 +3675,10 @@ LA MAR
 LA MAREA
 LA MESOPOTAMIA
 LA NAVE
-LA NI√ëA
+LA NI—A
 LA PAMPA
 LA PINTA
-LA PORTE√ëA
+LA PORTE—A
 LA QUENA
 LA RIOJA
 LA SANTA MARIA
@@ -3742,7 +3742,7 @@ LLERENA
 LLORENTE
 LOBERIA
 LOBOS
-LOGRO√ëO
+LOGRO—O
 LOMAS DE ZAMORA
 LONDRES
 LOS ALAMOS
@@ -3866,7 +3866,7 @@ MENENDEZ Y PELAYO
 MERCEDES
 METAN
 MEXICO
-MI√ëONES
+MI—ONES
 MIGUEL A. CAMINO
 MIGUEL ANGEL
 MIGUEL CANE
@@ -3885,7 +3885,7 @@ MIRALLA
 MIRAMAR
 MIRANDA
 MIRAVE
-MIRI√ëAY
+MIRI—AY
 MIRO
 MISIONES
 MOCORETA
@@ -3898,7 +3898,7 @@ MOM
 MOMPOX
 MONACO
 MONASTERIO
-MONTA√ëESES
+MONTA—ESES
 MONTE
 MONTE DINERO
 MONTEAGUDO
@@ -3915,8 +3915,8 @@ MORON
 MORSE
 MOSCU
 MOZART
-MU√ëECAS
-MU√ëIZ
+MU—ECAS
+MU—IZ
 MUNICH
 MURATURE
 MURCIA
@@ -3938,7 +3938,7 @@ NEVADA
 NEWTON
 NICANOR MENDEZ
 NICARAGUA
-NICASIO ORO√ëO
+NICASIO ORO—O
 NICOLAS DESCALZI
 NICOLAS E. VIDELA
 NICOLAS GRANADA
@@ -3946,7 +3946,7 @@ NICOLAS VILA
 NIZA
 NOGOYA
 NORUEGA
-NU√ëEZ
+NU—EZ
 NUEVA YORK
 NUEVA ZELANDIA
 NUMANCIA
@@ -3954,7 +3954,7 @@ O' BRIEN
 O' GORMAN
 O' HIGGINS
 OBISPO SAN ALBERTO
-OBRERO ROBERTO NU√ëEZ
+OBRERO ROBERTO NU—EZ
 OCEANIA
 OHM
 OLAVARRIA
@@ -4021,14 +4021,14 @@ PAULA ALBARRACIN DE SARMIENTO
 PAUNERO
 PAYSANDU
 PAZ SOLDAN
-PE√ëA
+PE—A
 PEDERNERA
 PEDRO AGOTE
 PEDRO BIDEGAIN
 PEDRO CALDERON DE LA BARCA
 PEDRO DE JEREZ
 PEDRO DE VALDIVIA
-PEDRO ECHAG√úE
+PEDRO ECHAG‹E
 PEDRO F. ZALDIVAR
 PEDRO LOZANO
 PEDRO MORAN
@@ -4088,7 +4088,7 @@ PRELADO D. BUENAVENTURA RISSO PATRON
 PRESIDENTE CAMILO TORRES Y TENORIO
 PRESIDENTE EDUARDO VICTOR HAEDO
 PRESIDENTE JOSE EVARISTO URIBURU
-PRESIDENTE LUIS SAENZ PE√ëA
+PRESIDENTE LUIS SAENZ PE—A
 PRESIDENTE ROBERTO M. ORTIZ
 PRILIDIANO PUEYRREDON
 PRIMERA JUNTA
@@ -4143,7 +4143,7 @@ REPUBLICA DE SAN MARINO
 REPUBLICA DEL LIBANO
 REPUBLICA DOMINICANA
 RESURRECCION
-RICARDO G√úIRALDES
+RICARDO G‹IRALDES
 RICARDO GUTIERREZ
 RICARDO MONNER SANS
 RIGLOS
@@ -4171,7 +4171,7 @@ RODRIGO DE CEPEDA Y AHUMADA
 RODRIGO DE IBARROLA
 RODRIGO DE TRIANA
 RODRIGO ORTIZ DE ZARATE
-RODRIGUEZ PE√ëA
+RODRIGUEZ PE—A
 ROGELIO YRURTIA
 ROJAS
 ROMA
@@ -4252,7 +4252,7 @@ SARGENTO CABRAL
 SARGENTO EDUARDO ROMERO
 SAYOS
 SEGUIN MARCOS
-SEGUNDO I√ëIGO CARRERA
+SEGUNDO I—IGO CARRERA
 SENILLOSA
 SERRANO
 SERVET
@@ -4426,7 +4426,7 @@ VOLTAIRE
 VUELTA DE OBLIGADO
 WAGNER
 WASHINGTON
-WENCESLAO VILLAFA√ëE
+WENCESLAO VILLAFA—E
 WHITE
 WILLIAM C. MORRIS
 YAPEYU
@@ -4435,7 +4435,7 @@ YERBAL
 YERUA
 YRUPE
 YUGOSLAVIA
-ZA√ëARTU
+ZA—ARTU
 ZABALA
 ZADO
 ZAMUDIO
@@ -4461,8 +4461,8 @@ TURIN
 TURQUIA
 11 de Septiembre
 4 de Abril
-A. Mart√≠nez
-Mart√≠nez
+A. MartÌnez
+MartÌnez
 A.Lamberto
 Lamberto
 A.Maderni
@@ -4476,8 +4476,8 @@ Alte. Guisse
 Almirante Guisse
 Alte. Brown
 Ameghino
-Am√©rica
-Ant√°rtida Argentina
+AmÈrica
+Ant·rtida Argentina
 Antartida Argentina
 Antonena
 Arana
@@ -4485,37 +4485,37 @@ Aristeguy
 Arrillaga
 Arroyo Seco
 Artigas
-Azcu√©naga
+AzcuÈnaga
 Azucena
 B. J. M. de Rosas
 Juan Manuel de Rosas
 Bariffi
-Bas√≠lico
-Beir√≥
+BasÌlico
+BeirÛ
 Bereterbide
 Berrutti
 Buenos Aires
 C. Cadona
 Cadona
-C. Calfulcur√°
+C. Calfulcur·
 C. Calfulcura
-Calfulcur√°
+Calfulcur·
 Calfulcura
 Cabral
 Cagnoli
 Calihue
-Canad√°
+Canad·
 Canada
 Carriego
 Cerrillada
 Cereseto
 Cesio
-Chapaleof√∫
+Chapaleof˙
 Chapaleofu
 Chapeaurouge
 Chienno
 Ciao
-Circunvalaci√≥n
+CircunvalaciÛn
 Cnel J Aguilera
 Aguilera
 Col. Norte Macaya
@@ -4524,8 +4524,8 @@ Norte Macaya
 Col. Sur Pugliese
 Colectora Sur Pugliese
 Sur Pugliese
-Constituci√≥n
-C√≥rdoba
+ConstituciÛn
+CÛrdoba
 D. Alighieri
 Alighieri
 Dabidos
@@ -4539,22 +4539,22 @@ Del Medio
 Dhers
 gral paz
 Doering
-Dom√≠nguez
+DomÌnguez
 D. Pastoriza
 Pastoriza
 Dr. Illia
 Illia
 Duffau
-E. Rodr√≠guez
-Rodr√≠guez
+E. RodrÌguez
+RodrÌguez
 Eandi
-Echeverr√≠a
+EcheverrÌa
 Edison
 Esquerdo
 F. de la Cruz
 de la Cruz
-F. Garc√≠a Lorca
-Garc√≠a Lorca
+F. GarcÌa Lorca
+GarcÌa Lorca
 F. Independencia
 Fuerte Independencia
 F.L.Beltran
@@ -4570,15 +4570,15 @@ Frondizi
 Fugl
 Fulton
 G. Hudson
-G. M. de S. Mart√≠n
-San Mart√≠n
+G. M. de S. MartÌn
+San MartÌn
 G. Rivero
 Rivero
 G.Cima
 Cima
 Galfre
 Gardel
-Gonz√°lez Pacheco
+Gonz·lez Pacheco
 Gonzalez Pacheco
 Gorman
 Gral. Lemos
@@ -4590,35 +4590,35 @@ Savio
 Gral. Roca
 General Roca
 Roca
-G√ºemes Norte
-G√ºemes Sur
-Hait√≠
-Hern√°ndez
+G¸emes Norte
+G¸emes Sur
+HaitÌ
+Hern·ndez
 Hernandez
-Hno Cris√≥stomo
+Hno CrisÛstomo
 Holanda
-Huasa√±an
+HuasaÒan
 Huarruca
 Huemulen
-I.Fern√°ndez
-Fern√°ndez
+I.Fern·ndez
+Fern·ndez
 I.Fernandez
 Fernandez
 Ijurco
 Ingenieros
 Israel
-Ituzaing√≥
+ItuzaingÛ
 J. de D. Filiberto
-J. Mart√≠
-Mart√≠
+J. MartÌ
+MartÌ
 J.Basso Aguirre
 Basoo Aguirre
 J.Bisogni
 Bisogni
-Jap√≥n
+JapÛn
 Juan XXIII
-Ju√°rez
-Ju√°rez
+Ju·rez
+Ju·rez
 Juldain
 Kramer
 L. Cabana
@@ -4632,10 +4632,10 @@ La Blanca
 La Merced
 La Movediza
 La Pastora
-La Pesquer√≠a
+La PesquerÌa
 Labarden
 Lamadrid
-Languey√∫
+Languey˙
 Langueyu
 Lanza de Vasto
 Las Amapolas
@@ -4648,17 +4648,17 @@ Las Hortensias
 Las Lilas
 Las Malvinas
 Las Margaritas
-Las Orqu√≠deas
+Las OrquÌdeas
 Las Petunias
 Las Violetas
-Lauraleof√∫
+Lauraleof˙
 Lauraleofu
 Leeson
 Lennon
 Lester
 Liniers
 Linstow
-Lober√≠a
+LoberÌa
 Los Agapantos
 Los Aromos
 Los Ceibos
@@ -4667,7 +4667,7 @@ Los Fresnos
 Los Huesos
 Los Mimbres
 Los Nogales
-Los Omb√∫es
+Los Omb˙es
 Los Ombues
 Los Pinos
 Los Sauces
@@ -4675,7 +4675,7 @@ Los Talas
 Los Tamarindos
 Los Tulipanes
 M. Fierro
-Mart√≠n Fierro
+MartÌn Fierro
 M. Gandhi
 Gandhi
 M. L. King
@@ -4686,37 +4686,37 @@ Macaya Col. Norte
 Macaya Colectora Norte
 Machado
 Magnasco
-Maip√∫
+Maip˙
 Maipu
 Maritorena
 Marzoratti
 Massini
 Mathiansen
-M√©xico
+MÈxico
 Mitre
 Morel
 Mosconi
-Napaleof√∫
+Napaleof˙
 Napaleofu
-Neuqu√©n
+NeuquÈn
 Nigro
 Novoa
-√±ancai
+Òancai
 O'Higgins
 P. de los Andes
 P. Sant Miqueu
 Sant Miqueu
 Palacios
-Panam√°
+Panam·
 Panama
 Patagonia
 Payaniyeu
-Payr√≥
+PayrÛ
 Paz
 Pedersen
 Pellegrini
 Pennachi
-Per√©
+PerÈ
 Peyrel
 Piccirilli
 Piedrabuena
@@ -4727,15 +4727,15 @@ Pozos
 Pratt
 Pueblos Originarios
 Pueblo Vasco
-Pueyrred√≥n
+PueyrredÛn
 Pugliese Col. Sur
 Pugliese Colectora Sur
 Quequen
-Quinq. Mart√≠n
+Quinq. MartÌn
 R. Cruz
 Cruz
-R. Dar√≠o
-Dar√≠o
+R. DarÌo
+DarÌo
 R. de Castro
 R. Pascucci
 Pascucci
@@ -4748,8 +4748,8 @@ Ronca Hue
 Roser
 Rucamalen
 S. Del Estero
-S. Pe√±a
-Saenz Pe√±a
+S. PeÒa
+Saenz PeÒa
 S. Vega
 S.M. de Oro
 S.Sombra
@@ -4762,19 +4762,19 @@ Schweitzer
 Sinka
 Soldado Argentino
 Spegazini
-Suarez Garc√≠a
+Suarez GarcÌa
 T. de Calcuta
 Calcuta
 Falkner
-Tacuar√≠
+TacuarÌ
 Tomas M.
-Tucum√°n
+Tucum·n
 Tucuman
 Ugalde
 Ugarte
 Urquiza
-V. L√≥pez
-Vicente L√≥pez
+V. LÛpez
+Vicente LÛpez
 V. Sarfield
 Velez Sarfield
 Vigil
@@ -4783,65 +4783,65 @@ Vivot
 Yrigoyen
 Zarini, Dr.
 Zarini
-Balb√≠n
-Bol√≠var
-Buz√≥n
-Col√≥n
+BalbÌn
+BolÌvar
+BuzÛn
+ColÛn
 Espora
 Campos, Luis M.
 Campos
 Del Valle
-D√≠az V√©lez
+DÌaz VÈlez
 J.B. Justo
 L. de Osornio
 Osornio
 Lunghi
 M. D' Andrea
 Marconi
-Per√≥n, Pte.Per√≥n, Eva
-Per√≥n
+PerÛn, Pte.PerÛn, Eva
+PerÛn
 S. Lamas
 Lamas
 San Gabriel
 Santamarina
-Av. Balb√≠n
-Av. Bol√≠var
-Av. Buz√≥n
-Av. Col√≥n
+Av. BalbÌn
+Av. BolÌvar
+Av. BuzÛn
+Av. ColÛn
 Av. Espora
 Av. Estrada
 Av. Falucho
 Av. Campos, Luis M.
 Av. Del Valle
-Av. D√≠az V√©lez
+Av. DÌaz VÈlez
 Av. Don Bosco
 Av. J.B. Justo
 Av. L. de Osornio
 Av. Lunghi
 Av. M. D' Andrea
 Av. Marconi
-Av. Per√≥n, Pte.Av. Per√≥n, Eva
+Av. PerÛn, Pte.Av. PerÛn, Eva
 Av. Pujol
 Av. S. Lamas
 Av. San Gabriel
 Av. Santamarina
-Avenida Balb√≠n
-Avenida Bol√≠var
-Avenida Buz√≥n
-Avenida Col√≥n
+Avenida BalbÌn
+Avenida BolÌvar
+Avenida BuzÛn
+Avenida ColÛn
 Avenida Espora
 Avenida Estrada
 Avenida Falucho
 Avenida Campos, Luis M.
 Avenida Del Valle
-Avenida D√≠az V√©lez
+Avenida DÌaz VÈlez
 Avenida Don Bosco
 Avenida J.B. Justo
 Avenida L. de Osornio
 Avenida Lunghi
 Avenida M. D' Andrea
 Avenida Marconi
-Avenida Per√≥n, Pte.Avenida Per√≥n, Eva
+Avenida PerÛn, Pte.Avenida PerÛn, Eva
 Avenida Pujol
 Avenida S. Lamas
 Avenida San Gabriel
@@ -4851,10 +4851,10 @@ Avenida Santamarina
 
 PASO
 Paseo
-v√≠a
-v√≠as
-v√≠a p√∫blica
-v√≠a publica
+vÌa
+vÌas
+vÌa p˙blica
+vÌa publica
 arteria
 arterias
 avenida
@@ -4880,7 +4880,7 @@ callejuela
 callejuelas
 calleja
 callejas
-callej√≥n
+callejÛn
 callejones
 camino
 caminos
@@ -4906,11 +4906,11 @@ atajo
 atajos
 rodeo
 rodeos
-desv√≠o
-desv√≠os
-galer√≠a
-galer√≠as
-callej√≥n sin salida
+desvÌo
+desvÌos
+galerÌa
+galerÌas
+callejÛn sin salida
 callejones sin salida
 glorieta
 glorietas
@@ -4923,7 +4923,7 @@ accidente
 accidentes
 accidentados
 accidentada
-accident√≥
+accidentÛ
 accidentaron
 siniestro
 siniestros
@@ -4935,23 +4935,23 @@ desastre
 desastres
 emergencia
 emergencias
-cat√°strofe
-cat√°strofes
+cat·strofe
+cat·strofes
 catastrofe
 catastrofes
 tragedia
 tragedias
 descarrilamiento
-descarril√≥
+descarrilÛ
 despiste
 choque
 choques
 chocado
 chocados
-choque m√∫ltiple
+choque m˙ltiple
 choque multiple
 choque en cadena
-colisi√≥n
+colisiÛn
 colisiones
 atropello
 atropellado
@@ -4965,30 +4965,30 @@ fatalidad
 heridos
 herido
 vuelco
-volc√≥
-v√≠ctimas
-v√≠ctima
+volcÛ
+vÌctimas
+vÌctima
 desgracia
 infortunio
 
 #CATEGORY Barrio
 
 Acassuso 
-Adrogu√©
+AdroguÈ
 Aeropuerto Internacional Ezeiza
 Aldo Bonzi
 Alejandro Korn 
-√Årea de Promoci√≥n El Tri√°ngulo
-area de Promoci√≥n El Triangulo
+¡rea de PromociÛn El Tri·ngulo
+area de PromociÛn El Triangulo
 Bancalari
 Barrio Don Orione
-Barrio Parque General San Mart√≠n
+Barrio Parque General San MartÌn
 Barrio Ruta Sol
 Barrio Uno 
 Beccar
 Bella Vista 
-Bel√©n de Escobar
-Benav√≠dez
+BelÈn de Escobar
+BenavÌdez
 Berazategui 
 Bernal
 Billinghurst
@@ -5000,23 +5000,23 @@ Canning
 Carlos Spegazzini
 Caseros
 Castelar
-Ca√±uelas
+CaÒuelas
 Churruca 
 Ciudad de San Vicente 
 Ciudad Evita
-Ciudad Jard√≠n El Libertador
-Ciudad Jard√≠n Lomas del Palomar
+Ciudad JardÌn El Libertador
+Ciudad JardÌn Lomas del Palomar
 Ciudadela 
 Claypole
 Club de Campo Larena
 Cruce Varela
 Cuartel V
 Del Viso
-Dique Luj√°n
+Dique Luj·n
 Dique Lujan
 Don Bosco 
 Don Torcuato
-El Jag√ºel 
+El Jag¸el 
 El Libertador 
 El Palomar 
 El Pato
@@ -5024,15 +5024,15 @@ El Talar
 Estanislao Severo Zeballos 
 Ezeiza
 Ezpeleta
-F√°tima 
+F·tima 
 Fatima 
-Francisco √Ålvarez 
-Gar√≠n
+Francisco ¡lvarez 
+GarÌn
 General Pacheco
-General Rodr√≠guez
+General RodrÌguez
 Glew
 Gobernador Julio A. Costa
-Gonz√°lez Cat√°n
+Gonz·lez Cat·n
 Gonzalez Catan
 Grand Bourg
 Guernica 
@@ -5042,26 +5042,26 @@ Ingeniero Adolfo Sourdeaux
 Ingeniero Budge
 Ingeniero Juan Allan
 Ingeniero Maschwitz
-Ingeniero Pablo Nogu√©s
+Ingeniero Pablo NoguÈs
 Isidro Casanova
-Ituzaing√≥ 
-Jos√© C. Paz
-Jos√© Ingenieros 
-Jos√© Le√≥n Su√°rez 
-Jos√© Le√≥n Suarez 
-Jos√© M√°rmol 
+ItuzaingÛ 
+JosÈ C. Paz
+JosÈ Ingenieros 
+JosÈ LeÛn Su·rez 
+JosÈ LeÛn Suarez 
+JosÈ M·rmol 
 Jose C. Paz
 Jose Ingenieros 
 Jose Leon Suarez  
 Jose Marmol 
-Juan Mar√≠a Guti√©rrez 
+Juan MarÌa GutiÈrrez 
 La Capilla 
 La Reja
 La Tablada
-La Uni√≥n 
+La UniÛn 
 Gregorio de Laferrere 
 Lagomarsino 
-Lan√∫s
+Lan˙s
 Lanus
 Libertad 
 Llavallol
@@ -5070,71 +5070,71 @@ Loma Verde (Escobar)
 Lomas del Mirador
 Longchamps
 Los Polvorines
-Luis Guill√≥n
+Luis GuillÛn
 Malvinas Argentinas
 Manuel Alberti 
 Manzanares 
 Maquinista F. Savio
 Marcos Paz 
 Mariano Acosta 
-Mart√≠n Coronado 
-Mart√≠nez 
+MartÌn Coronado 
+MartÌnez 
 Matheu 
-M√°ximo Paz 
+M·ximo Paz 
 Maximo Paz 
 Merlo 
 Ministro Rivadavia
 Monte Chingolo
 Monte Grande
 Moreno 
-Mu√±iz 
+MuÒiz 
 Nordelta
 Nueve de Abril
 Once de Septiembre
-Pablo Podest√° 
+Pablo Podest· 
 Pablo Podesta 
-Parque San Mart√≠n
+Parque San MartÌn
 Paso del Rey
 Pereyra
 Pilar 
-Pl√°tanos 
+Pl·tanos 
 Platanos 
 Pontevedra 
 Presidente Derqui 
-Puerto Paran√° 
+Puerto Paran· 
 Puerto Parana
 Punta Chica 
 Rafael Calzada
 Rafael Castillo
-Ramos Mej√≠a
+Ramos MejÌa
 Ranelagh
 Remedios de Escalada
 Remedios de Escalada
 Ricardo Rojas 
-Rinc√≥n de Milberg
-S√°enz Pe√±a 
-Saenz Pe√±a 
-San Andr√©s 
+RincÛn de Milberg
+S·enz PeÒa 
+Saenz PeÒa 
+San AndrÈs 
 San Antonio de Padua 
-San Francisco de As√≠s
+San Francisco de AsÌs
 San Francisco Solano 
-San Jos√©
+San JosÈ
 San Justo 
-San Mart√≠n 
+San MartÌn 
 San Miguel 
-Santa Mar√≠a
+Santa MarÌa
 Santos Lugares
 Sourigues 
 Tapiales
 Tortuguitas
-Trist√°n Su√°rez
-Tristan Su√°rez
+Trist·n Su·rez
+Tristan Su·rez
 Troncos del Talar
 Trujui
 Turdera
-Valent√≠n Alsina 
+ValentÌn Alsina 
 Veinte de Junio
-Vicente L√≥pez 
+Vicente LÛpez 
 Victoria (provincia de)
 Villa Adelina
 Villa Albertina 
@@ -5146,27 +5146,27 @@ Villa Brown
 Villa Celina
 Villa Centenario
 Villa Chacabuco
-Villa Coronel Jos√© M. Zapiola
+Villa Coronel JosÈ M. Zapiola
 Villa de Mayo
 Villa Eduardo Madero
-Villa Espa√±a
+Villa EspaÒa
 Villa Fiorito
 Villa General Antonio J. de Sucre
 Villa General Eugenio Necochea
-Villa General Jos√© Tom√°s Guido
+Villa General JosÈ Tom·s Guido
 Villa General Juan G. Las Heras
 Villa Godoy Cruz
-Villa Granaderos de San Mart√≠n
+Villa Granaderos de San MartÌn
 Villa Gregoria Matorras
-Villa Juan Mart√≠n de Pueyrred√≥n
+Villa Juan MartÌn de PueyrredÛn
 Villa La Florida
 Villa Libertad
 Villa Luzuriaga
 Villa Lynch
-Villa Maip√∫
+Villa Maip˙
 Villa Maipu
-Villa Marqu√©s Alejandro Mar√≠a de Aguado
-Villa Mar√≠a Irene de Los Remedios de Escalada
+Villa MarquÈs Alejandro MarÌa de Aguado
+Villa MarÌa Irene de Los Remedios de Escalada
 Villa Parque Presidente Figueroa Alcorta
 Villa Parque San Lorenzo
 Villa Raffo
@@ -5177,7 +5177,7 @@ Villa Sarmiento
 Villa Tesei
 Villa Udaondo
 Villa Vatteone
-Villa Yapey√∫
+Villa Yapey˙
 Villa Yapeyu
 Virrey del Pino 
 Virreyes
@@ -5186,7 +5186,7 @@ Abasto
 Palermo Green
 Bajo AU7
 Tigre
-Villa Cart√≥n
+Villa CartÛn
 Bajo Belgrano
 Belgrano Chico
 Bajo Flores
@@ -5199,38 +5199,38 @@ Barrio Cardenal Santiago Copello
 Barrio Parque Almirante Brown Sector E
 Barrio Copello
 Conjunto Urbano Cardenal Copello
-Barrio Cardenal Samor√©
+Barrio Cardenal SamorÈ
 Barrio Chino
 Barrio Comandante Espora
 Barrio Comandante Luis Piedrabuena
-Barrio Constituci√≥n
+Barrio ConstituciÛn
 Barrio El Hogar Obrero
 Conjunto Villa del Parque
 Barrio Emilio Mitre
 Barrio Banco Municipal
-Barrio Falc√≥n - Tellier
+Barrio FalcÛn - Tellier
 Las Mil Casitas de Liniers
 Las Mil Casitas
 El Barrio de las Mil Casitas
-Barrio General de Divisi√≥n Manuel Nicol√°s Savio
+Barrio General de DivisiÛn Manuel Nicol·s Savio
 Lugano I y II
 Conjunto Urbano Lugano I y II
-Barrio General Jos√© de San Mart√≠n
+Barrio General JosÈ de San MartÌn
 Barrio 17 de Octubre
 Barrio Grafa
 Barrio Ingeniero Mascias
-Barrio Ingl√©s
+Barrio InglÈs
 Barrio El Hogar Argentino
 Barrio Irala
 Barrio J.J. Castro
 Barrio Parque Almirante Brown Sector A
 Barrio John F. Kennedy
-Barrio Juan Jos√© Nagera
+Barrio Juan JosÈ Nagera
 Nagera
-Barrio Dr. J.J. N√°gera
+Barrio Dr. J.J. N·gera
 Barrio Parque Almirante Brown Sector C
 Barrio Juan XXIII
-Barrio Justo Su√°rez
+Barrio Justo Su·rez
 Barrio La Colonia
 Barrio Municipal Parque de los Patricios
 Barrio Los Perales
@@ -5240,10 +5240,10 @@ Conjunto San Pedrito
 Barrio Mihanovich
 Barrio Mitre
 Barrio Modelo Villa Lugano
-Barrio Monse√±or Espinoza
+Barrio MonseÒor Espinoza
 Barrio Municipal Presidente Rivadavia
 Barrio Rivadavia I y II
-Barrio Na√≥n
+Barrio NaÛn
 Barrio Nazca
 Barrio Norte
 Barrio Obrero Marcelo T. de Alvear
@@ -5253,22 +5253,22 @@ Barrio Parque Los Andes
 Casa Colectiva Parque Los Andes
 Barrio Plan Alborada 26
 Barrio Presidente Illia
-Barrio Presidente Roque Saenz Pe√±a
-Barrio 1¬∞ de marzo de 1948
-Barrio Ram√≥n Carrillo
-Barrio Ram√≥n Carrillo 2
+Barrio Presidente Roque Saenz PeÒa
+Barrio 1∞ de marzo de 1948
+Barrio RamÛn Carrillo
+Barrio RamÛn Carrillo 2
 Barrio AU7 Lacarra
 Barrio Residencial Cornelio Saavedra
 Barrio Sarmiento
-Barrio Juan Per√≥n
+Barrio Juan PerÛn
 Barrio Cornelio Saavedra
-Barrio Presidente Per√≥n
+Barrio Presidente PerÛn
 Barrio Brigadier Cornelio Saavedra
 Barrio Rawson
 Barrio River
 Barrio San Vicente de Paul
 Barrio Segurola
-Barrio Sim√≥n Bol√≠var
+Barrio SimÛn BolÌvar
 Barrio Soldati
 Conjunto Soldati
 Conjunto Habitacional Soldati
@@ -5292,14 +5292,14 @@ Conjunto Rioja
 El Bajo
 La Cueva
 La imprenta
-Las Ca√±itas
+Las CaÒitas
 Microcentro
 Once
-Pac√≠fico
+PacÌfico
 Palermo Boulevard
 Palermo Centro
-Palermo Bot√°nico
-Zona del Bot√°nico
+Palermo Bot·nico
+Zona del Bot·nico
 Botanico
 Palermo Chico
 Barrio Parque

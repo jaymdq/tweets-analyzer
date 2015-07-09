@@ -197,6 +197,9 @@ public class AnalyzerWorker extends Thread {
 			toAnalyze.add( new Pair< String, Vector<Chunk> >(tweet, chunks) );
 			String preProcessedTweet = this.ner.getLastPreProcessedString();
 
+			if (preProcessedTweet.isEmpty())
+				preProcessedTweet = tweet;
+			
 			chunks = sortChunks(chunks);
 			Collections.reverse(chunks);
 			chunks = removeSamePosChunks(chunks);

@@ -62,7 +62,7 @@ RULE-BASED-DICTIONARY-RULE= -s "\baltura(?=\s)" -m "al"
 # -n => N_Grams = int
 # -t => Threshold = int
 
-APPROXIMATED-DICTIONARY= -l 0.8 -n 2 -t 3
+APPROXIMATED-DICTIONARY= -l 0.8 -n 2 -t 2
 
 # SYNTAX-CHECKER
 # Opcional
@@ -93,4 +93,4 @@ SYNTAX-CHECKER-RULE= -s "numero" "de" "Calle" -m "Direccion Determinada"
 # -l => lowerLimit = double
 # -p => observationProb = double
 
-TWEVENT= -l 0.2 -p 0.2
+TWEVENT= -l 0.2 -p 0.3
