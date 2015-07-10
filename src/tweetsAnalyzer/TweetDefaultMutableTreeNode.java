@@ -1,4 +1,6 @@
 package tweetsAnalyzer;
+import java.awt.Toolkit;
+
 import javax.swing.Icon;
 import javax.swing.ImageIcon;
 import javax.swing.tree.DefaultMutableTreeNode;
@@ -20,9 +22,10 @@ public class TweetDefaultMutableTreeNode extends DefaultMutableTreeNode {
 
 	public TweetDefaultMutableTreeNode( String text ) {
 		this.text = text;
-		this.setOpenIcon(new ImageIcon("./src/tweetsAnalyzer/twitter_minus_16x16.png"));
-		this.setClosedIcon(new ImageIcon("./src/tweetsAnalyzer/twitter_plus_16_16.png"));
-		this.setTweetIcon(new ImageIcon("./src/tweetsAnalyzer/twitter_16x16.png"));
+		 
+		this.setOpenIcon(new ImageIcon(MainWindow.class.getResource("/images/twitter_minus_16x16.png")));
+		this.setClosedIcon(new ImageIcon(MainWindow.class.getResource("/images/twitter_plus_16_16.png")));
+		this.setTweetIcon(new ImageIcon(MainWindow.class.getResource("/images/twitter_16x16.png")));
 	}
 
 	public String getText() {
